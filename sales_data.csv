@@ -1,0 +1,1501 @@
+Order_ID,Date,Customer,Product,Category,Region,Quantity,Unit_Price,Revenue
+ORD1815,2025-01-01,Customer_03,Printer,Electronics,South,1,254.6,254.6
+ORD1495,2025-01-01,Customer_16,Office Chair,Furniture,West,4,198.39,793.56
+ORD1941,2025-01-01,Customer_10,Office Chair,Furniture,North,2,223.1,446.2
+ORD1758,2025-01-01,Customer_03,Smartphone,Electronics,North,4,640.46,2561.84
+ORD1448,2025-01-01,Customer_19,Standing Desk,Furniture,South,5,494.94,2474.7
+ORD2127,2025-01-02,Customer_03,Notebook Pack,Stationery,West,6,15.81,94.86
+ORD2288,2025-01-02,Customer_23,Laptop,Electronics,North,1,956.12,956.12
+ORD1238,2025-01-02,Customer_27,Headphones,Electronics,North,5,111.15,555.75
+ORD2145,2025-01-02,Customer_09,Office Chair,Furniture,West,5,198.56,992.8
+ORD1412,2025-01-02,Customer_07,Headphones,Electronics,South,2,117.3,234.6
+ORD1049,2025-01-02,Customer_22,Printer,Electronics,East,6,248.76,1492.56
+ORD1121,2025-01-02,Customer_30,Notebook Pack,Stationery,South,4,16.32,65.28
+ORD1701,2025-01-03,Customer_07,Standing Desk,Furniture,West,3,448.53,1345.59
+ORD1900,2025-01-03,Customer_16,Laptop,Electronics,North,5,932.73,4663.65
+ORD1942,2025-01-04,Customer_28,Monitor,Electronics,East,3,319.12,957.36
+ORD1306,2025-01-04,Customer_09,Headphones,Electronics,North,2,117.81,235.62
+ORD1262,2025-01-04,Customer_23,Headphones,Electronics,North,4,130.13,520.52
+ORD1031,2025-01-04,Customer_09,Smartphone,Electronics,North,6,626.23,3757.38
+ORD1181,2025-01-05,Customer_06,Smartphone,Electronics,East,5,591.05,2955.25
+ORD1123,2025-01-07,Customer_19,Office Chair,Furniture,North,1,226.78,226.78
+ORD2474,2025-01-07,Customer_26,Monitor,Electronics,West,2,328.14,656.28
+ORD1151,2025-01-07,Customer_07,Headphones,Electronics,West,4,127.26,509.04
+ORD1093,2025-01-07,Customer_08,Office Chair,Furniture,North,5,197.51,987.55
+ORD1028,2025-01-08,Customer_07,Standing Desk,Furniture,West,6,454.5,2727.0
+ORD1589,2025-01-08,Customer_28,Printer,Electronics,North,4,249.1,996.4
+ORD1670,2025-01-08,Customer_05,Monitor,Electronics,West,7,312.99,2190.93
+ORD1760,2025-01-09,Customer_06,Smartphone,Electronics,North,5,669.6,3348.0
+ORD1282,2025-01-09,Customer_30,Notebook Pack,Stationery,East,6,16.25,97.5
+ORD2211,2025-01-09,Customer_22,Printer,Electronics,West,5,262.63,1313.15
+ORD1243,2025-01-09,Customer_16,Notebook Pack,Stationery,West,2,14.36,28.72
+ORD1637,2025-01-09,Customer_15,Headphones,Electronics,West,7,108.96,762.72
+ORD1968,2025-01-10,Customer_18,Monitor,Electronics,North,5,301.1,1505.5
+ORD1722,2025-01-10,Customer_23,Printer,Electronics,North,5,239.14,1195.7
+ORD1828,2025-01-10,Customer_21,Printer,Electronics,East,2,256.76,513.52
+ORD2135,2025-01-10,Customer_30,Laptop,Electronics,East,6,930.37,5582.22
+ORD1909,2025-01-10,Customer_28,Laptop,Electronics,South,6,957.26,5743.56
+ORD1443,2025-01-11,Customer_07,Office Chair,Furniture,West,2,230.32,460.64
+ORD1089,2025-01-11,Customer_15,Printer,Electronics,North,4,279.94,1119.76
+ORD2450,2025-01-12,Customer_26,Headphones,Electronics,West,1,116.33,116.33
+ORD1762,2025-01-12,Customer_18,Monitor,Electronics,West,6,279.29,1675.74
+ORD1035,2025-01-12,Customer_29,Laptop,Electronics,North,3,826.21,2478.63
+ORD1998,2025-01-12,Customer_22,Monitor,Electronics,West,5,271.41,1357.05
+ORD2058,2025-01-12,Customer_07,Office Chair,Furniture,East,5,217.16,1085.8
+ORD1368,2025-01-12,Customer_13,Laptop,Electronics,West,5,889.65,4448.25
+ORD2365,2025-01-13,Customer_26,Laptop,Electronics,East,6,869.78,5218.68
+ORD1821,2025-01-13,Customer_01,Notebook Pack,Stationery,West,4,15.4,61.6
+ORD1182,2025-01-13,Customer_23,Office Chair,Furniture,East,7,220.92,1546.44
+ORD2263,2025-01-14,Customer_23,Printer,Electronics,West,3,282.45,847.35
+ORD1408,2025-01-14,Customer_20,Monitor,Electronics,North,1,310.95,310.95
+ORD2227,2025-01-15,Customer_19,Monitor,Electronics,West,7,289.35,2025.45
+ORD2129,2025-01-15,Customer_13,Notebook Pack,Stationery,West,1,14.41,14.41
+ORD1537,2025-01-15,Customer_04,Laptop,Electronics,East,1,844.22,844.22
+ORD1702,2025-01-15,Customer_08,Smartphone,Electronics,North,5,607.13,3035.65
+ORD2380,2025-01-15,Customer_29,Monitor,Electronics,North,4,288.69,1154.76
+ORD2271,2025-01-15,Customer_16,Laptop,Electronics,West,7,967.65,6773.55
+ORD1838,2025-01-16,Customer_29,Laptop,Electronics,East,5,959.3,4796.5
+ORD1370,2025-01-16,Customer_30,Headphones,Electronics,West,1,118.4,118.4
+ORD1870,2025-01-17,Customer_02,Office Chair,Furniture,North,7,195.1,1365.7
+ORD2021,2025-01-17,Customer_02,Laptop,Electronics,East,7,854.92,5984.44
+ORD1305,2025-01-17,Customer_08,Smartphone,Electronics,East,5,679.86,3399.3
+ORD2279,2025-01-17,Customer_26,Printer,Electronics,South,5,238.56,1192.8
+ORD1017,2025-01-18,Customer_07,Smartphone,Electronics,East,7,623.81,4366.67
+ORD1280,2025-01-18,Customer_03,Headphones,Electronics,East,4,115.41,461.64
+ORD2383,2025-01-18,Customer_17,Monitor,Electronics,South,3,327.59,982.77
+ORD1025,2025-01-18,Customer_19,Notebook Pack,Stationery,North,1,15.17,15.17
+ORD1152,2025-01-19,Customer_06,Monitor,Electronics,West,3,277.57,832.71
+ORD1475,2025-01-19,Customer_07,Printer,Electronics,East,4,255.42,1021.68
+ORD1777,2025-01-19,Customer_26,Laptop,Electronics,West,5,939.54,4697.7
+ORD2004,2025-01-19,Customer_25,Smartphone,Electronics,North,2,698.74,1397.48
+ORD1141,2025-01-19,Customer_13,Smartphone,Electronics,West,6,585.12,3510.72
+ORD1911,2025-01-19,Customer_30,Smartphone,Electronics,West,6,685.71,4114.26
+ORD2471,2025-01-19,Customer_27,Notebook Pack,Stationery,East,2,13.64,27.28
+ORD2117,2025-01-20,Customer_04,Standing Desk,Furniture,East,7,512.22,3585.54
+ORD1482,2025-01-20,Customer_24,Headphones,Electronics,East,4,115.46,461.84
+ORD1813,2025-01-20,Customer_14,Headphones,Electronics,West,7,123.32,863.24
+ORD1478,2025-01-21,Customer_13,Notebook Pack,Stationery,South,4,15.94,63.76
+ORD1300,2025-01-21,Customer_20,Headphones,Electronics,East,4,118.48,473.92
+ORD1987,2025-01-21,Customer_03,Headphones,Electronics,North,4,111.44,445.76
+ORD2156,2025-01-22,Customer_22,Laptop,Electronics,East,3,974.14,2922.42
+ORD1114,2025-01-22,Customer_11,Standing Desk,Furniture,East,6,463.02,2778.12
+ORD1959,2025-01-22,Customer_07,Office Chair,Furniture,North,2,191.67,383.34
+ORD2287,2025-01-22,Customer_25,Smartphone,Electronics,East,5,690.91,3454.55
+ORD1388,2025-01-23,Customer_09,Monitor,Electronics,West,6,293.63,1761.78
+ORD2024,2025-01-23,Customer_14,Printer,Electronics,East,4,248.65,994.6
+ORD2481,2025-01-23,Customer_09,Laptop,Electronics,West,4,907.06,3628.24
+ORD1501,2025-01-23,Customer_20,Notebook Pack,Stationery,East,6,15.49,92.94
+ORD1872,2025-01-23,Customer_26,Laptop,Electronics,South,5,815.44,4077.2
+ORD2387,2025-01-24,Customer_02,Headphones,Electronics,North,7,111.79,782.53
+ORD1628,2025-01-24,Customer_26,Standing Desk,Furniture,East,2,520.0,1040.0
+ORD1830,2025-01-24,Customer_27,Smartphone,Electronics,North,1,684.56,684.56
+ORD2303,2025-01-24,Customer_02,Monitor,Electronics,East,6,303.86,1823.16
+ORD1268,2025-01-25,Customer_05,Standing Desk,Furniture,East,2,452.58,905.16
+ORD2210,2025-01-25,Customer_05,Standing Desk,Furniture,South,2,506.14,1012.28
+ORD2463,2025-01-25,Customer_20,Laptop,Electronics,West,5,865.87,4329.35
+ORD1939,2025-01-25,Customer_16,Standing Desk,Furniture,North,5,446.93,2234.65
+ORD1811,2025-01-25,Customer_14,Monitor,Electronics,South,1,285.05,285.05
+ORD2204,2025-01-26,Customer_09,Notebook Pack,Stationery,West,5,15.11,75.55
+ORD2294,2025-01-26,Customer_28,Monitor,Electronics,South,4,316.32,1265.28
+ORD2090,2025-01-26,Customer_23,Standing Desk,Furniture,South,3,472.97,1418.91
+ORD1731,2025-01-26,Customer_26,Office Chair,Furniture,North,2,227.45,454.9
+ORD1452,2025-01-27,Customer_14,Office Chair,Furniture,South,7,198.99,1392.93
+ORD1333,2025-01-27,Customer_26,Printer,Electronics,North,4,272.49,1089.96
+ORD1524,2025-01-27,Customer_09,Headphones,Electronics,West,2,123.24,246.48
+ORD1410,2025-01-28,Customer_03,Smartphone,Electronics,West,1,600.68,600.68
+ORD2168,2025-01-28,Customer_16,Monitor,Electronics,North,1,309.43,309.43
+ORD1070,2025-01-29,Customer_13,Printer,Electronics,North,5,249.78,1248.9
+ORD2355,2025-01-29,Customer_25,Office Chair,Furniture,North,1,223.47,223.47
+ORD1978,2025-01-29,Customer_17,Headphones,Electronics,East,5,121.75,608.75
+ORD1087,2025-01-29,Customer_06,Headphones,Electronics,South,2,129.91,259.82
+ORD1350,2025-01-30,Customer_05,Standing Desk,Furniture,South,3,451.36,1354.08
+ORD2251,2025-01-30,Customer_12,Office Chair,Furniture,East,2,205.06,410.12
+ORD2134,2025-01-31,Customer_30,Standing Desk,Furniture,North,6,442.87,2657.22
+ORD1816,2025-02-01,Customer_14,Laptop,Electronics,South,5,817.21,4086.05
+ORD1865,2025-02-01,Customer_24,Notebook Pack,Stationery,East,5,16.36,81.8
+ORD2364,2025-02-01,Customer_18,Standing Desk,Furniture,East,6,496.61,2979.66
+ORD2028,2025-02-01,Customer_21,Standing Desk,Furniture,South,7,523.64,3665.48
+ORD1308,2025-02-02,Customer_01,Headphones,Electronics,South,1,118.47,118.47
+ORD1030,2025-02-02,Customer_22,Office Chair,Furniture,South,3,221.37,664.11
+ORD2353,2025-02-02,Customer_13,Monitor,Electronics,North,2,285.08,570.16
+ORD1220,2025-02-02,Customer_21,Smartphone,Electronics,South,1,643.08,643.08
+ORD1042,2025-02-02,Customer_10,Notebook Pack,Stationery,East,3,16.47,49.41
+ORD1430,2025-02-02,Customer_08,Laptop,Electronics,West,3,946.39,2839.17
+ORD1532,2025-02-03,Customer_02,Smartphone,Electronics,East,5,591.04,2955.2
+ORD1839,2025-02-03,Customer_29,Monitor,Electronics,West,4,286.63,1146.52
+ORD1581,2025-02-03,Customer_23,Printer,Electronics,South,4,264.23,1056.92
+ORD1132,2025-02-03,Customer_23,Laptop,Electronics,North,7,868.67,6080.69
+ORD2411,2025-02-03,Customer_18,Standing Desk,Furniture,West,3,442.06,1326.18
+ORD1765,2025-02-04,Customer_13,Printer,Electronics,East,3,236.59,709.77
+ORD2093,2025-02-04,Customer_14,Office Chair,Furniture,North,4,189.4,757.6
+ORD1952,2025-02-04,Customer_22,Standing Desk,Furniture,West,5,503.76,2518.8
+ORD2315,2025-02-04,Customer_09,Headphones,Electronics,West,3,127.05,381.15
+ORD1189,2025-02-04,Customer_26,Headphones,Electronics,West,7,125.49,878.43
+ORD2241,2025-02-05,Customer_09,Printer,Electronics,North,2,267.3,534.6
+ORD1805,2025-02-05,Customer_26,Printer,Electronics,South,4,266.88,1067.52
+ORD1341,2025-02-05,Customer_10,Headphones,Electronics,West,2,118.2,236.4
+ORD2456,2025-02-06,Customer_18,Monitor,Electronics,South,5,302.76,1513.8
+ORD1237,2025-02-06,Customer_30,Office Chair,Furniture,West,5,191.08,955.4
+ORD1379,2025-02-06,Customer_12,Headphones,Electronics,North,1,116.72,116.72
+ORD1820,2025-02-06,Customer_04,Laptop,Electronics,North,5,825.57,4127.85
+ORD1287,2025-02-06,Customer_07,Standing Desk,Furniture,South,4,503.96,2015.84
+ORD2181,2025-02-06,Customer_11,Monitor,Electronics,East,1,292.38,292.38
+ORD1971,2025-02-06,Customer_28,Office Chair,Furniture,West,2,191.64,383.28
+ORD2001,2025-02-06,Customer_26,Notebook Pack,Stationery,East,3,15.02,45.06
+ORD1922,2025-02-07,Customer_15,Office Chair,Furniture,East,2,221.99,443.98
+ORD2055,2025-02-07,Customer_12,Monitor,Electronics,North,6,322.74,1936.44
+ORD2122,2025-02-07,Customer_30,Headphones,Electronics,West,7,123.4,863.8
+ORD2014,2025-02-07,Customer_09,Standing Desk,Furniture,South,4,442.58,1770.32
+ORD1326,2025-02-08,Customer_05,Smartphone,Electronics,East,2,608.26,1216.52
+ORD1974,2025-02-08,Customer_03,Smartphone,Electronics,North,6,673.78,4042.68
+ORD1354,2025-02-08,Customer_30,Monitor,Electronics,North,6,275.2,1651.2
+ORD1676,2025-02-08,Customer_11,Standing Desk,Furniture,East,2,450.44,900.88
+ORD1229,2025-02-08,Customer_26,Smartphone,Electronics,West,7,638.3,4468.1
+ORD1764,2025-02-08,Customer_13,Headphones,Electronics,North,1,116.84,116.84
+ORD2114,2025-02-08,Customer_09,Smartphone,Electronics,South,2,666.53,1333.06
+ORD2003,2025-02-09,Customer_14,Monitor,Electronics,South,2,307.56,615.12
+ORD2445,2025-02-09,Customer_13,Laptop,Electronics,South,5,857.55,4287.75
+ORD1037,2025-02-10,Customer_05,Printer,Electronics,West,5,279.02,1395.1
+ORD1743,2025-02-10,Customer_14,Headphones,Electronics,East,6,114.27,685.62
+ORD1366,2025-02-10,Customer_19,Office Chair,Furniture,North,5,201.32,1006.6
+ORD1315,2025-02-10,Customer_26,Notebook Pack,Stationery,South,7,13.55,94.85
+ORD2410,2025-02-10,Customer_04,Laptop,Electronics,North,2,983.01,1966.02
+ORD2222,2025-02-11,Customer_25,Monitor,Electronics,East,6,274.11,1644.66
+ORD2352,2025-02-11,Customer_17,Office Chair,Furniture,East,4,190.0,760.0
+ORD1078,2025-02-11,Customer_07,Standing Desk,Furniture,East,5,478.97,2394.85
+ORD2180,2025-02-12,Customer_20,Standing Desk,Furniture,East,7,515.29,3607.03
+ORD2285,2025-02-12,Customer_24,Laptop,Electronics,West,4,942.76,3771.04
+ORD1714,2025-02-12,Customer_22,Monitor,Electronics,North,1,294.28,294.28
+ORD1713,2025-02-12,Customer_07,Printer,Electronics,East,5,281.37,1406.85
+ORD2005,2025-02-12,Customer_29,Monitor,Electronics,West,2,291.75,583.5
+ORD2199,2025-02-13,Customer_08,Standing Desk,Furniture,West,6,437.16,2622.96
+ORD1863,2025-02-13,Customer_19,Printer,Electronics,East,1,280.81,280.81
+ORD1768,2025-02-13,Customer_25,Smartphone,Electronics,South,2,704.2,1408.4
+ORD1445,2025-02-13,Customer_22,Notebook Pack,Stationery,North,4,15.9,63.6
+ORD1118,2025-02-14,Customer_01,Smartphone,Electronics,South,2,643.06,1286.12
+ORD1375,2025-02-14,Customer_16,Laptop,Electronics,South,5,909.8,4549.0
+ORD2009,2025-02-14,Customer_04,Standing Desk,Furniture,North,6,488.78,2932.68
+ORD2422,2025-02-15,Customer_23,Standing Desk,Furniture,North,5,503.7,2518.5
+ORD1104,2025-02-15,Customer_22,Printer,Electronics,South,1,270.4,270.4
+ORD1579,2025-02-15,Customer_03,Laptop,Electronics,East,6,939.12,5634.72
+ORD1427,2025-02-15,Customer_27,Printer,Electronics,West,2,259.22,518.44
+ORD1109,2025-02-15,Customer_08,Notebook Pack,Stationery,North,1,16.42,16.42
+ORD2049,2025-02-16,Customer_14,Laptop,Electronics,North,2,891.86,1783.72
+ORD2408,2025-02-16,Customer_08,Laptop,Electronics,West,3,862.6,2587.8
+ORD2198,2025-02-16,Customer_29,Printer,Electronics,South,4,278.41,1113.64
+ORD1129,2025-02-16,Customer_24,Notebook Pack,Stationery,East,4,14.3,57.2
+ORD1304,2025-02-16,Customer_04,Standing Desk,Furniture,North,6,510.22,3061.32
+ORD2318,2025-02-16,Customer_26,Office Chair,Furniture,West,6,203.73,1222.38
+ORD2329,2025-02-16,Customer_27,Headphones,Electronics,North,2,127.0,254.0
+ORD2196,2025-02-16,Customer_17,Notebook Pack,Stationery,East,6,13.87,83.22
+ORD2322,2025-02-16,Customer_14,Standing Desk,Furniture,South,5,501.21,2506.05
+ORD1275,2025-02-17,Customer_28,Office Chair,Furniture,North,6,192.15,1152.9
+ORD1584,2025-02-17,Customer_23,Office Chair,Furniture,East,5,228.19,1140.95
+ORD1603,2025-02-17,Customer_19,Smartphone,Electronics,South,5,664.87,3324.35
+ORD1505,2025-02-17,Customer_27,Office Chair,Furniture,West,6,207.46,1244.76
+ORD1930,2025-02-18,Customer_22,Standing Desk,Furniture,West,1,466.3,466.3
+ORD1394,2025-02-18,Customer_11,Notebook Pack,Stationery,North,6,15.58,93.48
+ORD2260,2025-02-18,Customer_07,Headphones,Electronics,West,7,109.92,769.44
+ORD1144,2025-02-18,Customer_23,Monitor,Electronics,East,1,286.38,286.38
+ORD1425,2025-02-18,Customer_30,Smartphone,Electronics,East,5,629.38,3146.9
+ORD1318,2025-02-19,Customer_08,Monitor,Electronics,East,5,302.43,1512.15
+ORD1979,2025-02-19,Customer_05,Standing Desk,Furniture,South,5,527.89,2639.45
+ORD1706,2025-02-19,Customer_05,Laptop,Electronics,North,4,819.38,3277.52
+ORD2226,2025-02-19,Customer_14,Laptop,Electronics,West,7,927.09,6489.63
+ORD1027,2025-02-20,Customer_23,Printer,Electronics,North,2,269.43,538.86
+ORD1607,2025-02-20,Customer_21,Standing Desk,Furniture,South,4,459.66,1838.64
+ORD1335,2025-02-20,Customer_07,Printer,Electronics,South,4,276.98,1107.92
+ORD1877,2025-02-20,Customer_08,Notebook Pack,Stationery,North,1,15.66,15.66
+ORD1709,2025-02-20,Customer_26,Office Chair,Furniture,West,7,192.07,1344.49
+ORD2235,2025-02-20,Customer_02,Headphones,Electronics,East,5,130.86,654.3
+ORD1733,2025-02-20,Customer_28,Printer,Electronics,East,5,255.06,1275.3
+ORD1111,2025-02-22,Customer_23,Printer,Electronics,North,2,249.79,499.58
+ORD2018,2025-02-22,Customer_06,Laptop,Electronics,West,7,836.2,5853.4
+ORD1801,2025-02-22,Customer_18,Headphones,Electronics,North,2,122.72,245.44
+ORD1462,2025-02-22,Customer_27,Notebook Pack,Stationery,North,5,14.96,74.8
+ORD1434,2025-02-23,Customer_08,Office Chair,Furniture,North,5,215.5,1077.5
+ORD1106,2025-02-23,Customer_26,Printer,Electronics,South,4,278.57,1114.28
+ORD1829,2025-02-23,Customer_05,Laptop,Electronics,North,5,871.89,4359.45
+ORD1176,2025-02-24,Customer_19,Notebook Pack,Stationery,North,6,13.83,82.98
+ORD2390,2025-02-24,Customer_06,Headphones,Electronics,North,7,131.2,918.4
+ORD1562,2025-02-24,Customer_13,Office Chair,Furniture,East,2,201.69,403.38
+ORD1023,2025-02-24,Customer_06,Monitor,Electronics,West,3,321.03,963.09
+ORD2162,2025-02-24,Customer_17,Printer,Electronics,East,5,261.48,1307.4
+ORD1074,2025-02-24,Customer_18,Notebook Pack,Stationery,North,4,16.05,64.2
+ORD1197,2025-02-24,Customer_25,Laptop,Electronics,South,2,896.13,1792.26
+ORD2388,2025-02-24,Customer_11,Monitor,Electronics,West,4,320.57,1282.28
+ORD1469,2025-02-25,Customer_26,Monitor,Electronics,East,3,307.27,921.81
+ORD2138,2025-02-25,Customer_27,Notebook Pack,Stationery,South,6,13.64,81.84
+ORD1512,2025-02-25,Customer_04,Printer,Electronics,North,1,244.63,244.63
+ORD1507,2025-02-25,Customer_25,Smartphone,Electronics,East,2,669.6,1339.2
+ORD2291,2025-02-26,Customer_28,Printer,Electronics,East,4,269.92,1079.68
+ORD1721,2025-02-26,Customer_18,Monitor,Electronics,East,3,303.65,910.95
+ORD1807,2025-02-26,Customer_05,Laptop,Electronics,North,4,863.02,3452.08
+ORD2385,2025-02-26,Customer_22,Smartphone,Electronics,North,7,590.46,4133.22
+ORD1036,2025-02-26,Customer_25,Printer,Electronics,West,2,268.64,537.28
+ORD1748,2025-02-26,Customer_28,Headphones,Electronics,West,3,110.47,331.41
+ORD1926,2025-02-27,Customer_16,Standing Desk,Furniture,West,2,523.26,1046.52
+ORD1446,2025-02-27,Customer_10,Headphones,Electronics,West,6,122.28,733.68
+ORD2367,2025-02-27,Customer_05,Office Chair,Furniture,North,3,219.05,657.15
+ORD1154,2025-02-27,Customer_03,Office Chair,Furniture,West,1,206.5,206.5
+ORD1194,2025-02-28,Customer_23,Monitor,Electronics,South,5,294.0,1470.0
+ORD2159,2025-02-28,Customer_01,Headphones,Electronics,North,7,125.92,881.44
+ORD1353,2025-02-28,Customer_22,Office Chair,Furniture,West,4,194.26,777.04
+ORD1407,2025-02-28,Customer_20,Smartphone,Electronics,East,6,600.82,3604.92
+ORD1868,2025-03-01,Customer_07,Office Chair,Furniture,North,4,223.79,895.16
+ORD1055,2025-03-01,Customer_15,Laptop,Electronics,South,1,944.3,944.3
+ORD1435,2025-03-01,Customer_19,Laptop,Electronics,East,2,837.67,1675.34
+ORD2432,2025-03-01,Customer_27,Smartphone,Electronics,South,5,625.23,3126.15
+ORD1932,2025-03-01,Customer_22,Headphones,Electronics,South,1,123.79,123.79
+ORD2219,2025-03-01,Customer_05,Office Chair,Furniture,West,6,193.21,1159.26
+ORD1594,2025-03-01,Customer_08,Headphones,Electronics,North,3,131.88,395.64
+ORD1277,2025-03-01,Customer_08,Printer,Electronics,West,7,238.26,1667.82
+ORD1349,2025-03-02,Customer_24,Smartphone,Electronics,West,2,685.81,1371.62
+ORD1136,2025-03-02,Customer_18,Standing Desk,Furniture,West,2,464.67,929.34
+ORD2095,2025-03-02,Customer_17,Laptop,Electronics,East,5,924.05,4620.25
+ORD1440,2025-03-02,Customer_29,Monitor,Electronics,West,5,321.5,1607.5
+ORD1095,2025-03-02,Customer_23,Headphones,Electronics,North,6,131.47,788.82
+ORD1827,2025-03-03,Customer_17,Monitor,Electronics,East,3,325.27,975.81
+ORD2439,2025-03-03,Customer_10,Monitor,Electronics,South,2,320.16,640.32
+ORD1699,2025-03-03,Customer_23,Laptop,Electronics,West,7,907.72,6354.04
+ORD1796,2025-03-03,Customer_21,Monitor,Electronics,South,6,329.48,1976.88
+ORD1949,2025-03-04,Customer_06,Headphones,Electronics,West,2,118.69,237.38
+ORD1602,2025-03-04,Customer_05,Notebook Pack,Stationery,West,2,13.57,27.14
+ORD2033,2025-03-04,Customer_09,Headphones,Electronics,North,3,116.32,348.96
+ORD1550,2025-03-04,Customer_14,Printer,Electronics,West,2,245.73,491.46
+ORD2304,2025-03-04,Customer_21,Standing Desk,Furniture,North,4,480.84,1923.36
+ORD1115,2025-03-05,Customer_15,Standing Desk,Furniture,East,5,459.53,2297.65
+ORD2430,2025-03-05,Customer_28,Office Chair,Furniture,East,7,230.68,1614.76
+ORD1646,2025-03-06,Customer_20,Office Chair,Furniture,West,7,226.63,1586.41
+ORD1977,2025-03-06,Customer_30,Standing Desk,Furniture,North,4,475.29,1901.16
+ORD1747,2025-03-06,Customer_30,Headphones,Electronics,North,3,112.83,338.49
+ORD1531,2025-03-06,Customer_03,Smartphone,Electronics,North,4,695.71,2782.84
+ORD1382,2025-03-06,Customer_29,Monitor,Electronics,West,7,306.16,2143.12
+ORD1869,2025-03-06,Customer_22,Laptop,Electronics,North,7,866.83,6067.81
+ORD1867,2025-03-06,Customer_25,Printer,Electronics,East,4,274.77,1099.08
+ORD1774,2025-03-06,Customer_13,Printer,Electronics,South,1,253.86,253.86
+ORD1880,2025-03-07,Customer_26,Laptop,Electronics,South,2,849.44,1698.88
+ORD1201,2025-03-07,Customer_28,Monitor,Electronics,East,3,296.66,889.98
+ORD1982,2025-03-07,Customer_21,Standing Desk,Furniture,East,7,465.64,3259.48
+ORD1385,2025-03-07,Customer_08,Laptop,Electronics,South,2,962.18,1924.36
+ORD2112,2025-03-08,Customer_05,Smartphone,Electronics,East,3,622.3,1866.9
+ORD1138,2025-03-08,Customer_15,Headphones,Electronics,East,6,112.22,673.32
+ORD1428,2025-03-08,Customer_24,Laptop,Electronics,East,7,939.0,6573.0
+ORD2425,2025-03-08,Customer_27,Printer,Electronics,West,3,242.8,728.4
+ORD1884,2025-03-09,Customer_05,Printer,Electronics,East,7,246.38,1724.66
+ORD1162,2025-03-09,Customer_05,Office Chair,Furniture,South,3,208.1,624.3
+ORD2428,2025-03-09,Customer_24,Headphones,Electronics,North,5,129.06,645.3
+ORD2240,2025-03-09,Customer_11,Standing Desk,Furniture,East,1,501.08,501.08
+ORD1390,2025-03-09,Customer_08,Notebook Pack,Stationery,East,2,14.18,28.36
+ORD1297,2025-03-09,Customer_28,Office Chair,Furniture,North,1,209.13,209.13
+ORD1033,2025-03-10,Customer_04,Standing Desk,Furniture,East,4,478.22,1912.88
+ORD2237,2025-03-10,Customer_04,Laptop,Electronics,East,2,930.25,1860.5
+ORD2173,2025-03-10,Customer_11,Smartphone,Electronics,South,1,656.39,656.39
+ORD2443,2025-03-10,Customer_14,Office Chair,Furniture,East,2,223.28,446.56
+ORD1459,2025-03-10,Customer_12,Laptop,Electronics,East,5,938.64,4693.2
+ORD1022,2025-03-11,Customer_12,Smartphone,Electronics,West,4,685.54,2742.16
+ORD1570,2025-03-11,Customer_24,Monitor,Electronics,North,1,287.66,287.66
+ORD2309,2025-03-11,Customer_19,Printer,Electronics,East,4,273.26,1093.04
+ORD1150,2025-03-11,Customer_22,Printer,Electronics,East,3,277.91,833.73
+ORD2492,2025-03-12,Customer_21,Laptop,Electronics,West,7,983.41,6883.87
+ORD1719,2025-03-12,Customer_08,Standing Desk,Furniture,North,4,443.78,1775.12
+ORD2053,2025-03-12,Customer_25,Monitor,Electronics,West,3,280.57,841.71
+ORD2360,2025-03-12,Customer_01,Laptop,Electronics,East,7,918.29,6428.03
+ORD1891,2025-03-12,Customer_28,Notebook Pack,Stationery,North,4,14.66,58.64
+ORD2350,2025-03-13,Customer_19,Laptop,Electronics,North,2,989.08,1978.16
+ORD1965,2025-03-13,Customer_26,Standing Desk,Furniture,East,6,509.74,3058.44
+ORD2389,2025-03-13,Customer_18,Monitor,Electronics,East,1,275.09,275.09
+ORD1269,2025-03-13,Customer_30,Standing Desk,Furniture,North,7,500.1,3500.7
+ORD2314,2025-03-14,Customer_23,Monitor,Electronics,West,4,301.42,1205.68
+ORD2244,2025-03-14,Customer_11,Monitor,Electronics,North,3,310.8,932.4
+ORD2010,2025-03-14,Customer_11,Headphones,Electronics,North,5,110.43,552.15
+ORD1286,2025-03-14,Customer_04,Smartphone,Electronics,West,5,626.46,3132.3
+ORD1203,2025-03-14,Customer_05,Notebook Pack,Stationery,West,2,14.62,29.24
+ORD2312,2025-03-14,Customer_11,Printer,Electronics,West,4,269.31,1077.24
+ORD1593,2025-03-14,Customer_18,Monitor,Electronics,North,2,291.86,583.72
+ORD1615,2025-03-15,Customer_14,Notebook Pack,Stationery,North,7,16.28,113.96
+ORD2399,2025-03-15,Customer_20,Headphones,Electronics,West,1,109.47,109.47
+ORD1848,2025-03-15,Customer_23,Printer,Electronics,North,5,268.64,1343.2
+ORD1295,2025-03-15,Customer_24,Standing Desk,Furniture,South,3,449.42,1348.26
+ORD2142,2025-03-16,Customer_05,Monitor,Electronics,West,7,317.04,2219.28
+ORD2272,2025-03-16,Customer_28,Monitor,Electronics,North,4,284.57,1138.28
+ORD1995,2025-03-16,Customer_11,Notebook Pack,Stationery,East,1,14.25,14.25
+ORD2264,2025-03-16,Customer_18,Smartphone,Electronics,West,3,646.1,1938.3
+ORD1239,2025-03-16,Customer_02,Notebook Pack,Stationery,East,4,15.42,61.68
+ORD2369,2025-03-17,Customer_16,Notebook Pack,Stationery,West,5,14.09,70.45
+ORD1973,2025-03-17,Customer_08,Office Chair,Furniture,East,3,197.72,593.16
+ORD1371,2025-03-17,Customer_08,Notebook Pack,Stationery,West,2,14.23,28.46
+ORD1439,2025-03-17,Customer_25,Office Chair,Furniture,East,2,196.89,393.78
+ORD1488,2025-03-18,Customer_14,Printer,Electronics,East,1,281.81,281.81
+ORD1244,2025-03-18,Customer_22,Notebook Pack,Stationery,West,2,13.71,27.42
+ORD1859,2025-03-18,Customer_14,Printer,Electronics,West,7,276.59,1936.13
+ORD2022,2025-03-18,Customer_17,Printer,Electronics,East,6,256.33,1537.98
+ORD1776,2025-03-18,Customer_16,Office Chair,Furniture,North,6,213.25,1279.5
+ORD1209,2025-03-19,Customer_08,Printer,Electronics,East,5,252.01,1260.05
+ORD1943,2025-03-19,Customer_30,Office Chair,Furniture,East,1,220.03,220.03
+ORD1487,2025-03-19,Customer_29,Standing Desk,Furniture,East,3,450.21,1350.63
+ORD1969,2025-03-20,Customer_19,Laptop,Electronics,South,1,827.39,827.39
+ORD2338,2025-03-20,Customer_23,Printer,Electronics,West,5,258.61,1293.05
+ORD1081,2025-03-20,Customer_25,Office Chair,Furniture,South,2,222.21,444.42
+ORD1961,2025-03-20,Customer_26,Office Chair,Furniture,East,7,193.65,1355.55
+ORD2164,2025-03-20,Customer_22,Standing Desk,Furniture,North,3,452.15,1356.45
+ORD2101,2025-03-20,Customer_30,Office Chair,Furniture,North,4,191.83,767.32
+ORD2233,2025-03-20,Customer_08,Notebook Pack,Stationery,East,4,16.19,64.76
+ORD2373,2025-03-21,Customer_25,Office Chair,Furniture,West,6,195.51,1173.06
+ORD1693,2025-03-21,Customer_10,Monitor,Electronics,North,5,310.5,1552.5
+ORD2052,2025-03-21,Customer_23,Standing Desk,Furniture,North,4,465.62,1862.48
+ORD2202,2025-03-22,Customer_11,Monitor,Electronics,North,7,273.8,1916.6
+ORD1857,2025-03-22,Customer_01,Laptop,Electronics,East,5,885.0,4425.0
+ORD1893,2025-03-22,Customer_07,Monitor,Electronics,North,1,297.82,297.82
+ORD2246,2025-03-23,Customer_09,Printer,Electronics,East,1,243.52,243.52
+ORD1338,2025-03-23,Customer_26,Smartphone,Electronics,South,6,600.99,3605.94
+ORD1798,2025-03-23,Customer_01,Headphones,Electronics,West,1,114.29,114.29
+ORD1740,2025-03-23,Customer_07,Printer,Electronics,West,5,241.21,1206.05
+ORD1814,2025-03-24,Customer_12,Printer,Electronics,South,1,251.94,251.94
+ORD2413,2025-03-24,Customer_22,Printer,Electronics,East,2,248.17,496.34
+ORD1011,2025-03-25,Customer_16,Monitor,Electronics,West,3,300.94,902.82
+ORD2467,2025-03-25,Customer_29,Office Chair,Furniture,West,2,201.03,402.06
+ORD1002,2025-03-25,Customer_28,Notebook Pack,Stationery,South,6,15.35,92.1
+ORD2435,2025-03-25,Customer_28,Laptop,Electronics,North,5,909.48,4547.4
+ORD1155,2025-03-26,Customer_26,Notebook Pack,Stationery,North,3,16.11,48.33
+ORD1044,2025-03-26,Customer_06,Laptop,Electronics,North,3,873.99,2621.97
+ORD1376,2025-03-27,Customer_16,Notebook Pack,Stationery,East,3,14.17,42.51
+ORD1674,2025-03-27,Customer_20,Standing Desk,Furniture,North,1,448.74,448.74
+ORD1708,2025-03-27,Customer_15,Office Chair,Furniture,North,3,192.06,576.18
+ORD1316,2025-03-27,Customer_19,Notebook Pack,Stationery,North,4,14.21,56.84
+ORD1792,2025-03-27,Customer_08,Notebook Pack,Stationery,West,1,16.09,16.09
+ORD2381,2025-03-28,Customer_04,Headphones,Electronics,West,1,113.36,113.36
+ORD1108,2025-03-28,Customer_28,Office Chair,Furniture,West,2,193.47,386.94
+ORD2166,2025-03-29,Customer_14,Laptop,Electronics,East,7,856.29,5994.03
+ORD2140,2025-03-29,Customer_22,Monitor,Electronics,North,5,293.49,1467.45
+ORD1681,2025-03-29,Customer_01,Smartphone,Electronics,North,1,635.04,635.04
+ORD2466,2025-03-29,Customer_24,Notebook Pack,Stationery,East,5,15.82,79.1
+ORD1208,2025-03-30,Customer_13,Headphones,Electronics,North,4,112.02,448.08
+ORD1285,2025-03-30,Customer_15,Monitor,Electronics,East,4,322.08,1288.32
+ORD1041,2025-03-30,Customer_09,Printer,Electronics,East,7,235.54,1648.78
+ORD1005,2025-03-30,Customer_12,Printer,Electronics,East,4,254.67,1018.68
+ORD1752,2025-03-30,Customer_29,Laptop,Electronics,North,1,856.46,856.46
+ORD1391,2025-03-31,Customer_16,Smartphone,Electronics,West,7,621.47,4350.29
+ORD1661,2025-03-31,Customer_15,Notebook Pack,Stationery,North,3,16.32,48.96
+ORD2186,2025-03-31,Customer_08,Smartphone,Electronics,South,1,594.08,594.08
+ORD1310,2025-03-31,Customer_16,Notebook Pack,Stationery,East,4,15.05,60.2
+ORD1405,2025-03-31,Customer_11,Standing Desk,Furniture,West,7,486.93,3408.51
+ORD2250,2025-03-31,Customer_13,Smartphone,Electronics,South,2,589.78,1179.56
+ORD1986,2025-03-31,Customer_10,Standing Desk,Furniture,West,4,516.53,2066.12
+ORD1062,2025-04-01,Customer_12,Headphones,Electronics,South,4,114.58,458.32
+ORD1403,2025-04-01,Customer_30,Monitor,Electronics,East,7,322.7,2258.9
+ORD1599,2025-04-01,Customer_19,Notebook Pack,Stationery,South,6,16.09,96.54
+ORD1014,2025-04-01,Customer_15,Notebook Pack,Stationery,East,2,13.84,27.68
+ORD1898,2025-04-02,Customer_10,Laptop,Electronics,West,7,933.81,6536.67
+ORD1736,2025-04-02,Customer_12,Notebook Pack,Stationery,North,7,14.05,98.35
+ORD1061,2025-04-03,Customer_10,Notebook Pack,Stationery,North,1,14.23,14.23
+ORD1441,2025-04-03,Customer_01,Headphones,Electronics,South,7,109.28,764.96
+ORD1351,2025-04-03,Customer_29,Laptop,Electronics,East,4,941.65,3766.6
+ORD1159,2025-04-03,Customer_27,Printer,Electronics,West,5,242.1,1210.5
+ORD1317,2025-04-03,Customer_12,Notebook Pack,Stationery,North,4,15.0,60.0
+ORD1845,2025-04-04,Customer_15,Laptop,Electronics,North,7,822.49,5757.43
+ORD2107,2025-04-04,Customer_26,Monitor,Electronics,South,3,305.88,917.64
+ORD1625,2025-04-04,Customer_23,Smartphone,Electronics,North,2,590.44,1180.88
+ORD1687,2025-04-05,Customer_29,Standing Desk,Furniture,North,2,482.93,965.86
+ORD1578,2025-04-05,Customer_27,Monitor,Electronics,West,1,291.0,291.0
+ORD1917,2025-04-05,Customer_26,Printer,Electronics,North,4,283.92,1135.68
+ORD1920,2025-04-05,Customer_29,Printer,Electronics,West,6,254.01,1524.06
+ORD1303,2025-04-05,Customer_09,Monitor,Electronics,West,6,297.76,1786.56
+ORD1001,2025-04-06,Customer_21,Printer,Electronics,West,1,257.66,257.66
+ORD2394,2025-04-06,Customer_16,Smartphone,Electronics,North,4,588.58,2354.32
+ORD1200,2025-04-07,Customer_28,Headphones,Electronics,East,4,131.46,525.84
+ORD1991,2025-04-07,Customer_23,Standing Desk,Furniture,East,2,495.67,991.34
+ORD1381,2025-04-07,Customer_24,Monitor,Electronics,South,1,305.81,305.81
+ORD1120,2025-04-07,Customer_19,Office Chair,Furniture,South,7,198.05,1386.35
+ORD1800,2025-04-08,Customer_28,Laptop,Electronics,West,7,909.72,6368.04
+ORD1832,2025-04-08,Customer_25,Office Chair,Furniture,East,5,199.36,996.8
+ORD1172,2025-04-08,Customer_13,Printer,Electronics,West,5,235.82,1179.1
+ORD2076,2025-04-09,Customer_30,Notebook Pack,Stationery,South,5,16.45,82.25
+ORD2157,2025-04-09,Customer_10,Printer,Electronics,North,6,275.57,1653.42
+ORD1737,2025-04-09,Customer_16,Headphones,Electronics,East,3,110.58,331.74
+ORD1929,2025-04-09,Customer_23,Standing Desk,Furniture,East,4,489.7,1958.8
+ORD1139,2025-04-10,Customer_15,Office Chair,Furniture,North,6,198.28,1189.68
+ORD1605,2025-04-11,Customer_05,Standing Desk,Furniture,West,4,475.25,1901.0
+ORD2454,2025-04-12,Customer_19,Standing Desk,Furniture,North,7,473.3,3313.1
+ORD1544,2025-04-12,Customer_02,Printer,Electronics,West,3,246.78,740.34
+ORD1293,2025-04-12,Customer_09,Headphones,Electronics,North,3,130.93,392.79
+ORD1050,2025-04-13,Customer_26,Printer,Electronics,West,3,237.67,713.01
+ORD1498,2025-04-13,Customer_04,Monitor,Electronics,South,1,291.19,291.19
+ORD1499,2025-04-13,Customer_14,Office Chair,Furniture,North,2,214.84,429.68
+ORD2348,2025-04-13,Customer_24,Notebook Pack,Stationery,West,3,13.8,41.4
+ORD1810,2025-04-13,Customer_07,Laptop,Electronics,East,1,886.57,886.57
+ORD1608,2025-04-13,Customer_19,Monitor,Electronics,East,5,300.6,1503.0
+ORD1610,2025-04-13,Customer_17,Printer,Electronics,South,3,242.93,728.79
+ORD2205,2025-04-14,Customer_25,Monitor,Electronics,West,5,294.87,1474.35
+ORD2478,2025-04-14,Customer_27,Smartphone,Electronics,East,6,605.84,3635.04
+ORD2286,2025-04-14,Customer_22,Monitor,Electronics,North,2,322.75,645.5
+ORD2370,2025-04-14,Customer_17,Monitor,Electronics,East,1,308.23,308.23
+ORD1609,2025-04-14,Customer_21,Printer,Electronics,South,6,277.51,1665.06
+ORD1416,2025-04-14,Customer_19,Monitor,Electronics,West,5,314.93,1574.65
+ORD1492,2025-04-15,Customer_12,Printer,Electronics,North,5,270.6,1353.0
+ORD1718,2025-04-15,Customer_21,Smartphone,Electronics,East,4,623.07,2492.28
+ORD2311,2025-04-15,Customer_26,Headphones,Electronics,East,5,109.79,548.95
+ORD1692,2025-04-15,Customer_06,Monitor,Electronics,West,2,277.34,554.68
+ORD1728,2025-04-16,Customer_11,Office Chair,Furniture,East,3,197.1,591.3
+ORD1918,2025-04-16,Customer_02,Headphones,Electronics,North,6,111.55,669.3
+ORD1897,2025-04-16,Customer_01,Laptop,Electronics,East,2,868.63,1737.26
+ORD1540,2025-04-16,Customer_23,Notebook Pack,Stationery,West,7,14.22,99.54
+ORD2040,2025-04-16,Customer_10,Notebook Pack,Stationery,South,4,16.39,65.56
+ORD1685,2025-04-16,Customer_05,Printer,Electronics,South,6,279.04,1674.24
+ORD2306,2025-04-16,Customer_23,Headphones,Electronics,South,5,124.93,624.65
+ORD2082,2025-04-17,Customer_24,Monitor,Electronics,North,2,289.46,578.92
+ORD1060,2025-04-17,Customer_08,Monitor,Electronics,West,5,329.41,1647.05
+ORD1696,2025-04-17,Customer_10,Notebook Pack,Stationery,South,3,14.83,44.49
+ORD1754,2025-04-18,Customer_02,Standing Desk,Furniture,North,6,504.17,3025.02
+ORD1145,2025-04-18,Customer_17,Printer,Electronics,West,4,285.73,1142.92
+ORD1319,2025-04-18,Customer_02,Printer,Electronics,West,6,262.72,1576.32
+ORD1080,2025-04-19,Customer_14,Monitor,Electronics,East,1,310.67,310.67
+ORD1772,2025-04-19,Customer_16,Laptop,Electronics,South,1,958.54,958.54
+ORD1406,2025-04-19,Customer_11,Office Chair,Furniture,South,6,225.94,1355.64
+ORD1361,2025-04-19,Customer_23,Monitor,Electronics,West,4,323.17,1292.68
+ORD1966,2025-04-20,Customer_24,Standing Desk,Furniture,South,3,508.43,1525.29
+ORD2332,2025-04-20,Customer_26,Office Chair,Furniture,South,7,202.98,1420.86
+ORD2207,2025-04-21,Customer_29,Notebook Pack,Stationery,West,1,16.02,16.02
+ORD1520,2025-04-21,Customer_25,Headphones,Electronics,North,3,130.07,390.21
+ORD2496,2025-04-21,Customer_10,Standing Desk,Furniture,North,2,487.75,975.5
+ORD1322,2025-04-21,Customer_24,Standing Desk,Furniture,West,1,495.83,495.83
+ORD1100,2025-04-21,Customer_11,Printer,Electronics,North,1,266.4,266.4
+ORD2275,2025-04-21,Customer_24,Notebook Pack,Stationery,South,2,13.61,27.22
+ORD1551,2025-04-21,Customer_16,Office Chair,Furniture,South,7,206.71,1446.97
+ORD2094,2025-04-22,Customer_29,Headphones,Electronics,East,2,121.68,243.36
+ORD1686,2025-04-22,Customer_04,Office Chair,Furniture,South,4,189.95,759.8
+ORD1337,2025-04-22,Customer_02,Headphones,Electronics,North,5,108.26,541.3
+ORD1588,2025-04-22,Customer_20,Printer,Electronics,South,6,282.74,1696.44
+ORD1626,2025-04-23,Customer_24,Headphones,Electronics,North,4,118.55,474.2
+ORD1808,2025-04-23,Customer_16,Office Chair,Furniture,North,6,196.73,1180.38
+ORD1854,2025-04-23,Customer_15,Headphones,Electronics,East,4,129.7,518.8
+ORD1278,2025-04-23,Customer_30,Laptop,Electronics,West,3,859.62,2578.86
+ORD2280,2025-04-24,Customer_15,Notebook Pack,Stationery,North,4,16.49,65.96
+ORD2307,2025-04-24,Customer_24,Smartphone,Electronics,West,2,692.95,1385.9
+ORD1933,2025-04-25,Customer_22,Notebook Pack,Stationery,North,5,14.78,73.9
+ORD1320,2025-04-25,Customer_03,Headphones,Electronics,North,2,125.15,250.3
+ORD1085,2025-04-26,Customer_11,Notebook Pack,Stationery,East,1,15.81,15.81
+ORD1103,2025-04-26,Customer_14,Laptop,Electronics,East,2,927.31,1854.62
+ORD2366,2025-04-26,Customer_05,Headphones,Electronics,South,1,127.83,127.83
+ORD1666,2025-04-26,Customer_18,Standing Desk,Furniture,North,1,467.17,467.17
+ORD1515,2025-04-27,Customer_30,Laptop,Electronics,West,2,862.43,1724.86
+ORD1255,2025-04-27,Customer_06,Smartphone,Electronics,North,7,655.84,4590.88
+ORD1026,2025-04-27,Customer_04,Office Chair,Furniture,East,3,219.42,658.26
+ORD1770,2025-04-27,Customer_13,Notebook Pack,Stationery,South,3,16.37,49.11
+ORD1075,2025-04-27,Customer_23,Office Chair,Furniture,West,1,197.01,197.01
+ORD1983,2025-04-27,Customer_21,Notebook Pack,Stationery,North,6,14.6,87.6
+ORD1771,2025-04-27,Customer_10,Monitor,Electronics,East,1,322.51,322.51
+ORD1629,2025-04-27,Customer_25,Headphones,Electronics,North,1,131.44,131.44
+ORD1651,2025-04-28,Customer_03,Notebook Pack,Stationery,West,3,13.76,41.28
+ORD1003,2025-04-28,Customer_29,Office Chair,Furniture,East,4,208.34,833.36
+ORD2051,2025-04-28,Customer_12,Headphones,Electronics,South,1,109.54,109.54
+ORD2427,2025-04-28,Customer_15,Monitor,Electronics,East,7,319.04,2233.28
+ORD2087,2025-04-28,Customer_28,Monitor,Electronics,West,5,287.68,1438.4
+ORD1791,2025-04-28,Customer_06,Office Chair,Furniture,West,2,207.83,415.66
+ORD1449,2025-04-28,Customer_15,Headphones,Electronics,West,1,124.59,124.59
+ORD1782,2025-04-29,Customer_04,Laptop,Electronics,North,1,987.51,987.51
+ORD1582,2025-04-29,Customer_07,Laptop,Electronics,South,4,885.01,3540.04
+ORD1806,2025-04-29,Customer_04,Standing Desk,Furniture,East,4,527.87,2111.48
+ORD2025,2025-04-29,Customer_05,Laptop,Electronics,West,2,974.74,1949.48
+ORD2420,2025-04-29,Customer_22,Monitor,Electronics,South,6,297.95,1787.7
+ORD2036,2025-04-30,Customer_21,Monitor,Electronics,East,4,287.87,1151.48
+ORD1591,2025-04-30,Customer_09,Monitor,Electronics,South,2,315.53,631.06
+ORD1414,2025-04-30,Customer_18,Laptop,Electronics,South,1,868.32,868.32
+ORD1650,2025-04-30,Customer_04,Office Chair,Furniture,South,6,216.65,1299.9
+ORD1846,2025-04-30,Customer_24,Smartphone,Electronics,North,2,679.04,1358.08
+ORD2149,2025-05-01,Customer_12,Printer,Electronics,East,2,243.5,487.0
+ORD1013,2025-05-01,Customer_23,Printer,Electronics,North,2,240.34,480.68
+ORD2075,2025-05-01,Customer_01,Smartphone,Electronics,West,2,601.66,1203.32
+ORD1568,2025-05-01,Customer_23,Notebook Pack,Stationery,South,6,14.33,85.98
+ORD1659,2025-05-02,Customer_15,Headphones,Electronics,East,4,115.24,460.96
+ORD1404,2025-05-02,Customer_12,Office Chair,Furniture,South,5,218.83,1094.15
+ORD1276,2025-05-02,Customer_03,Office Chair,Furniture,West,6,207.09,1242.54
+ORD1010,2025-05-02,Customer_12,Standing Desk,Furniture,East,3,488.54,1465.62
+ORD1703,2025-05-03,Customer_28,Smartphone,Electronics,West,5,644.69,3223.45
+ORD2136,2025-05-03,Customer_30,Notebook Pack,Stationery,East,1,14.29,14.29
+ORD1281,2025-05-04,Customer_23,Office Chair,Furniture,East,1,230.9,230.9
+ORD1270,2025-05-04,Customer_05,Headphones,Electronics,North,2,123.46,246.92
+ORD1399,2025-05-04,Customer_22,Headphones,Electronics,West,3,127.02,381.06
+ORD1866,2025-05-04,Customer_16,Printer,Electronics,North,3,256.25,768.75
+ORD1822,2025-05-04,Customer_17,Smartphone,Electronics,West,5,697.3,3486.5
+ORD1960,2025-05-05,Customer_29,Smartphone,Electronics,South,6,674.09,4044.54
+ORD1573,2025-05-05,Customer_10,Laptop,Electronics,West,3,901.03,2703.09
+ORD1473,2025-05-05,Customer_27,Office Chair,Furniture,South,2,225.66,451.32
+ORD1477,2025-05-05,Customer_16,Laptop,Electronics,North,7,847.49,5932.43
+ORD1826,2025-05-05,Customer_11,Notebook Pack,Stationery,South,3,15.31,45.93
+ORD1990,2025-05-05,Customer_23,Headphones,Electronics,West,3,115.5,346.5
+ORD1210,2025-05-06,Customer_29,Headphones,Electronics,West,2,127.05,254.1
+ORD2239,2025-05-06,Customer_08,Laptop,Electronics,South,4,878.54,3514.16
+ORD1984,2025-05-06,Customer_26,Standing Desk,Furniture,North,1,516.85,516.85
+ORD1529,2025-05-06,Customer_04,Monitor,Electronics,North,4,271.53,1086.12
+ORD1146,2025-05-06,Customer_20,Laptop,Electronics,North,4,975.31,3901.24
+ORD1292,2025-05-06,Customer_08,Monitor,Electronics,South,6,286.45,1718.7
+ORD2089,2025-05-07,Customer_30,Smartphone,Electronics,East,6,664.78,3988.68
+ORD2497,2025-05-07,Customer_12,Printer,Electronics,West,6,276.43,1658.58
+ORD1091,2025-05-07,Customer_12,Printer,Electronics,North,5,259.83,1299.15
+ORD2409,2025-05-07,Customer_10,Headphones,Electronics,North,4,111.21,444.84
+ORD1256,2025-05-08,Customer_06,Notebook Pack,Stationery,West,2,14.75,29.5
+ORD2084,2025-05-08,Customer_16,Smartphone,Electronics,South,2,678.17,1356.34
+ORD1924,2025-05-08,Customer_20,Smartphone,Electronics,East,1,706.22,706.22
+ORD1781,2025-05-09,Customer_07,Notebook Pack,Stationery,North,3,14.41,43.23
+ORD2384,2025-05-10,Customer_12,Office Chair,Furniture,East,2,209.68,419.36
+ORD1330,2025-05-10,Customer_19,Standing Desk,Furniture,North,2,488.99,977.98
+ORD2061,2025-05-11,Customer_01,Notebook Pack,Stationery,West,1,14.59,14.59
+ORD1989,2025-05-11,Customer_15,Printer,Electronics,South,6,272.79,1636.74
+ORD1184,2025-05-11,Customer_19,Office Chair,Furniture,East,4,230.87,923.48
+ORD1071,2025-05-12,Customer_15,Smartphone,Electronics,North,7,698.92,4892.44
+ORD1985,2025-05-12,Customer_11,Notebook Pack,Stationery,North,4,16.24,64.96
+ORD2258,2025-05-12,Customer_19,Standing Desk,Furniture,East,2,455.01,910.02
+ORD1198,2025-05-12,Customer_30,Headphones,Electronics,East,1,120.6,120.6
+ORD2349,2025-05-12,Customer_11,Standing Desk,Furniture,South,5,507.39,2536.95
+ORD1426,2025-05-12,Customer_15,Printer,Electronics,South,7,245.24,1716.68
+ORD1552,2025-05-12,Customer_29,Printer,Electronics,North,4,263.05,1052.2
+ORD1424,2025-05-12,Customer_19,Office Chair,Furniture,East,1,208.92,208.92
+ORD1690,2025-05-13,Customer_13,Monitor,Electronics,West,2,306.51,613.02
+ORD1940,2025-05-13,Customer_17,Notebook Pack,Stationery,North,4,13.89,55.56
+ORD2326,2025-05-13,Customer_26,Notebook Pack,Stationery,West,2,15.56,31.12
+ORD1644,2025-05-13,Customer_29,Printer,Electronics,West,5,251.22,1256.1
+ORD1272,2025-05-13,Customer_20,Smartphone,Electronics,South,5,585.57,2927.85
+ORD2392,2025-05-13,Customer_01,Monitor,Electronics,West,5,301.06,1505.3
+ORD1700,2025-05-14,Customer_05,Standing Desk,Furniture,North,4,456.7,1826.8
+ORD1555,2025-05-14,Customer_14,Standing Desk,Furniture,North,5,458.37,2291.85
+ORD2262,2025-05-14,Customer_09,Office Chair,Furniture,West,6,220.28,1321.68
+ORD1855,2025-05-15,Customer_22,Printer,Electronics,East,7,282.27,1975.89
+ORD2266,2025-05-15,Customer_11,Laptop,Electronics,East,2,874.51,1749.02
+ORD2086,2025-05-15,Customer_09,Printer,Electronics,East,6,263.57,1581.42
+ORD1778,2025-05-15,Customer_30,Headphones,Electronics,East,2,112.27,224.54
+ORD2195,2025-05-16,Customer_15,Notebook Pack,Stationery,South,7,14.37,100.59
+ORD1436,2025-05-16,Customer_09,Standing Desk,Furniture,North,2,466.92,933.84
+ORD1363,2025-05-16,Customer_25,Monitor,Electronics,West,5,316.51,1582.55
+ORD1466,2025-05-16,Customer_17,Smartphone,Electronics,East,2,633.16,1266.32
+ORD1906,2025-05-16,Customer_22,Office Chair,Furniture,North,1,203.9,203.9
+ORD1914,2025-05-16,Customer_24,Standing Desk,Furniture,East,5,501.82,2509.1
+ORD2153,2025-05-17,Customer_30,Monitor,Electronics,West,1,291.62,291.62
+ORD1356,2025-05-17,Customer_02,Smartphone,Electronics,East,1,645.2,645.2
+ORD2179,2025-05-17,Customer_14,Laptop,Electronics,West,6,876.61,5259.66
+ORD1247,2025-05-18,Customer_03,Office Chair,Furniture,North,1,214.92,214.92
+ORD1271,2025-05-18,Customer_13,Laptop,Electronics,East,1,881.52,881.52
+ORD2223,2025-05-18,Customer_16,Notebook Pack,Stationery,South,4,16.17,64.68
+ORD1217,2025-05-19,Customer_13,Laptop,Electronics,East,5,916.27,4581.35
+ORD2419,2025-05-19,Customer_04,Office Chair,Furniture,East,6,201.3,1207.8
+ORD2091,2025-05-19,Customer_02,Office Chair,Furniture,West,3,222.23,666.69
+ORD2068,2025-05-19,Customer_23,Headphones,Electronics,North,1,112.66,112.66
+ORD1444,2025-05-19,Customer_28,Standing Desk,Furniture,West,7,483.02,3381.14
+ORD2043,2025-05-19,Customer_04,Headphones,Electronics,South,4,122.4,489.6
+ORD2374,2025-05-20,Customer_10,Monitor,Electronics,East,3,279.94,839.82
+ORD1092,2025-05-20,Customer_22,Printer,Electronics,East,4,271.95,1087.8
+ORD1904,2025-05-21,Customer_27,Office Chair,Furniture,North,6,212.22,1273.32
+ORD1260,2025-05-21,Customer_14,Printer,Electronics,South,3,260.09,780.27
+ORD1380,2025-05-21,Customer_25,Laptop,Electronics,North,3,836.95,2510.85
+ORD1927,2025-05-21,Customer_05,Headphones,Electronics,South,1,127.62,127.62
+ORD2080,2025-05-21,Customer_28,Monitor,Electronics,West,2,311.89,623.78
+ORD2347,2025-05-22,Customer_05,Notebook Pack,Stationery,West,2,14.16,28.32
+ORD1128,2025-05-22,Customer_16,Standing Desk,Furniture,North,6,450.73,2704.38
+ORD2278,2025-05-22,Customer_23,Laptop,Electronics,West,2,940.31,1880.62
+ORD2334,2025-05-22,Customer_28,Standing Desk,Furniture,West,7,484.75,3393.25
+ORD2073,2025-05-23,Customer_29,Standing Desk,Furniture,West,7,514.82,3603.74
+ORD2182,2025-05-23,Customer_04,Notebook Pack,Stationery,West,1,14.02,14.02
+ORD1715,2025-05-23,Customer_09,Printer,Electronics,East,6,257.33,1543.98
+ORD2351,2025-05-23,Customer_17,Office Chair,Furniture,North,3,225.27,675.81
+ORD2099,2025-05-23,Customer_11,Office Chair,Furniture,South,5,208.95,1044.75
+ORD1420,2025-05-24,Customer_16,Monitor,Electronics,East,3,293.38,880.14
+ORD1511,2025-05-24,Customer_18,Notebook Pack,Stationery,West,2,15.1,30.2
+ORD1841,2025-05-24,Customer_15,Notebook Pack,Stationery,West,7,13.63,95.41
+ORD2121,2025-05-24,Customer_29,Laptop,Electronics,North,4,866.12,3464.48
+ORD1883,2025-05-24,Customer_14,Smartphone,Electronics,North,6,609.56,3657.36
+ORD1558,2025-05-24,Customer_06,Printer,Electronics,North,5,265.34,1326.7
+ORD1273,2025-05-24,Customer_13,Monitor,Electronics,East,7,296.79,2077.53
+ORD2299,2025-05-25,Customer_03,Laptop,Electronics,West,6,881.31,5287.86
+ORD1253,2025-05-25,Customer_12,Headphones,Electronics,West,1,119.58,119.58
+ORD1193,2025-05-25,Customer_06,Headphones,Electronics,East,6,128.51,771.06
+ORD1165,2025-05-25,Customer_13,Printer,Electronics,North,3,255.24,765.72
+ORD1790,2025-05-25,Customer_04,Laptop,Electronics,South,3,869.78,2609.34
+ORD1873,2025-05-26,Customer_15,Laptop,Electronics,South,1,917.52,917.52
+ORD2045,2025-05-26,Customer_01,Smartphone,Electronics,West,6,622.71,3736.26
+ORD1502,2025-05-26,Customer_10,Monitor,Electronics,West,2,316.01,632.02
+ORD1633,2025-05-26,Customer_23,Office Chair,Furniture,South,2,209.07,418.14
+ORD1639,2025-05-27,Customer_19,Monitor,Electronics,North,2,320.57,641.14
+ORD1455,2025-05-27,Customer_26,Standing Desk,Furniture,South,1,454.72,454.72
+ORD1572,2025-05-27,Customer_21,Headphones,Electronics,North,5,118.87,594.35
+ORD1724,2025-05-27,Customer_01,Printer,Electronics,East,7,258.99,1812.93
+ORD2023,2025-05-27,Customer_09,Printer,Electronics,East,7,269.02,1883.14
+ORD1346,2025-05-27,Customer_19,Monitor,Electronics,North,2,278.27,556.54
+ORD2245,2025-05-28,Customer_09,Monitor,Electronics,West,4,274.06,1096.24
+ORD1365,2025-05-28,Customer_23,Standing Desk,Furniture,South,4,443.07,1772.28
+ORD1559,2025-05-28,Customer_15,Printer,Electronics,North,7,236.89,1658.23
+ORD1662,2025-05-28,Customer_30,Laptop,Electronics,East,3,832.62,2497.86
+ORD1187,2025-05-29,Customer_13,Office Chair,Furniture,East,5,208.03,1040.15
+ORD2414,2025-05-29,Customer_15,Standing Desk,Furniture,North,5,457.36,2286.8
+ORD1575,2025-05-29,Customer_21,Headphones,Electronics,East,6,113.36,680.16
+ORD2008,2025-05-29,Customer_06,Notebook Pack,Stationery,East,1,15.86,15.86
+ORD1261,2025-05-30,Customer_15,Smartphone,Electronics,South,6,650.49,3902.94
+ORD2063,2025-05-30,Customer_16,Notebook Pack,Stationery,East,3,14.02,42.06
+ORD1334,2025-05-30,Customer_03,Office Chair,Furniture,North,7,202.95,1420.65
+ORD1374,2025-05-30,Customer_21,Monitor,Electronics,East,3,301.16,903.48
+ORD1691,2025-05-30,Customer_19,Printer,Electronics,North,3,269.44,808.32
+ORD1218,2025-05-31,Customer_30,Office Chair,Furniture,East,4,210.28,841.12
+ORD1856,2025-05-31,Customer_11,Smartphone,Electronics,South,7,662.43,4637.01
+ORD1387,2025-05-31,Customer_23,Printer,Electronics,North,5,270.14,1350.7
+ORD1083,2025-06-01,Customer_08,Printer,Electronics,North,3,285.03,855.09
+ORD1516,2025-06-01,Customer_06,Monitor,Electronics,South,3,300.39,901.17
+ORD1134,2025-06-01,Customer_22,Printer,Electronics,North,1,267.72,267.72
+ORD1972,2025-06-01,Customer_04,Office Chair,Furniture,West,4,228.67,914.68
+ORD2248,2025-06-01,Customer_28,Headphones,Electronics,South,7,131.25,918.75
+ORD1789,2025-06-02,Customer_10,Laptop,Electronics,East,4,919.52,3678.08
+ORD1919,2025-06-02,Customer_19,Notebook Pack,Stationery,East,2,14.56,29.12
+ORD2197,2025-06-02,Customer_04,Monitor,Electronics,West,4,324.04,1296.16
+ORD1994,2025-06-02,Customer_16,Standing Desk,Furniture,North,3,514.6,1543.8
+ORD1177,2025-06-03,Customer_09,Smartphone,Electronics,East,6,602.21,3613.26
+ORD1569,2025-06-03,Customer_08,Standing Desk,Furniture,West,1,480.31,480.31
+ORD2461,2025-06-03,Customer_11,Headphones,Electronics,West,4,111.73,446.92
+ORD1723,2025-06-04,Customer_30,Laptop,Electronics,West,6,828.53,4971.18
+ORD1840,2025-06-04,Customer_27,Headphones,Electronics,West,7,116.15,813.05
+ORD2424,2025-06-04,Customer_10,Headphones,Electronics,West,3,121.48,364.44
+ORD1749,2025-06-04,Customer_28,Smartphone,Electronics,North,7,691.84,4842.88
+ORD1975,2025-06-04,Customer_21,Smartphone,Electronics,West,7,601.68,4211.76
+ORD1340,2025-06-05,Customer_17,Notebook Pack,Stationery,West,4,16.14,64.56
+ORD2193,2025-06-05,Customer_02,Notebook Pack,Stationery,South,6,16.07,96.42
+ORD1775,2025-06-05,Customer_06,Monitor,Electronics,North,6,315.39,1892.34
+ORD2259,2025-06-06,Customer_01,Printer,Electronics,North,1,236.76,236.76
+ORD1186,2025-06-06,Customer_23,Smartphone,Electronics,East,1,622.12,622.12
+ORD2489,2025-06-06,Customer_12,Standing Desk,Furniture,South,2,478.39,956.78
+ORD2065,2025-06-07,Customer_11,Office Chair,Furniture,North,5,199.38,996.9
+ORD1240,2025-06-07,Customer_07,Smartphone,Electronics,West,1,612.23,612.23
+ORD2261,2025-06-07,Customer_07,Monitor,Electronics,East,4,324.65,1298.6
+ORD2498,2025-06-08,Customer_08,Office Chair,Furniture,South,1,225.17,225.17
+ORD2160,2025-06-08,Customer_13,Standing Desk,Furniture,East,7,472.18,3305.26
+ORD2216,2025-06-08,Customer_15,Standing Desk,Furniture,East,5,511.32,2556.6
+ORD1506,2025-06-08,Customer_26,Standing Desk,Furniture,West,3,506.31,1518.93
+ORD2433,2025-06-08,Customer_04,Standing Desk,Furniture,South,2,455.94,911.88
+ORD1423,2025-06-08,Customer_12,Standing Desk,Furniture,South,1,516.46,516.46
+ORD1817,2025-06-09,Customer_25,Laptop,Electronics,North,4,975.23,3900.92
+ORD2415,2025-06-09,Customer_14,Printer,Electronics,South,5,264.92,1324.6
+ORD2340,2025-06-09,Customer_02,Standing Desk,Furniture,West,3,468.19,1404.57
+ORD1491,2025-06-09,Customer_20,Printer,Electronics,West,1,278.46,278.46
+ORD2453,2025-06-09,Customer_22,Smartphone,Electronics,East,4,590.93,2363.72
+ORD1577,2025-06-10,Customer_26,Standing Desk,Furniture,North,3,446.35,1339.05
+ORD1634,2025-06-10,Customer_29,Smartphone,Electronics,East,6,698.69,4192.14
+ORD2064,2025-06-10,Customer_23,Printer,Electronics,North,1,282.5,282.5
+ORD2020,2025-06-11,Customer_04,Laptop,Electronics,West,5,889.86,4449.3
+ORD1656,2025-06-11,Customer_16,Printer,Electronics,West,1,250.89,250.89
+ORD2359,2025-06-12,Customer_30,Headphones,Electronics,North,1,114.06,114.06
+ORD2301,2025-06-12,Customer_20,Office Chair,Furniture,East,6,214.42,1286.52
+ORD1228,2025-06-12,Customer_23,Standing Desk,Furniture,South,2,490.1,980.2
+ORD1645,2025-06-12,Customer_16,Headphones,Electronics,North,3,128.04,384.12
+ORD1881,2025-06-13,Customer_07,Printer,Electronics,West,1,270.23,270.23
+ORD1142,2025-06-13,Customer_14,Headphones,Electronics,South,3,119.37,358.11
+ORD2234,2025-06-13,Customer_08,Notebook Pack,Stationery,East,6,13.97,83.82
+ORD1716,2025-06-14,Customer_11,Standing Desk,Furniture,South,5,468.01,2340.05
+ORD1389,2025-06-14,Customer_21,Smartphone,Electronics,North,2,714.96,1429.92
+ORD1934,2025-06-14,Customer_06,Office Chair,Furniture,North,3,219.73,659.19
+ORD1418,2025-06-14,Customer_03,Headphones,Electronics,East,1,130.09,130.09
+ORD2077,2025-06-14,Customer_19,Smartphone,Electronics,West,7,672.98,4710.86
+ORD1539,2025-06-14,Customer_25,Laptop,Electronics,South,6,947.34,5684.04
+ORD2144,2025-06-15,Customer_04,Headphones,Electronics,East,1,122.95,122.95
+ORD1065,2025-06-15,Customer_17,Headphones,Electronics,North,7,123.85,866.95
+ORD1836,2025-06-15,Customer_06,Printer,Electronics,North,3,270.14,810.42
+ORD1742,2025-06-15,Customer_29,Notebook Pack,Stationery,South,4,14.42,57.68
+ORD1546,2025-06-15,Customer_13,Office Chair,Furniture,East,3,198.65,595.95
+ORD1302,2025-06-15,Customer_19,Laptop,Electronics,East,6,818.29,4909.74
+ORD1352,2025-06-15,Customer_04,Headphones,Electronics,South,2,127.33,254.66
+ORD1890,2025-06-15,Customer_18,Laptop,Electronics,South,7,911.14,6377.98
+ORD1704,2025-06-15,Customer_29,Smartphone,Electronics,East,4,607.12,2428.48
+ORD2344,2025-06-16,Customer_12,Smartphone,Electronics,North,4,645.1,2580.4
+ORD2345,2025-06-16,Customer_16,Monitor,Electronics,West,5,323.35,1616.75
+ORD1679,2025-06-16,Customer_23,Monitor,Electronics,East,2,301.7,603.4
+ORD1242,2025-06-16,Customer_27,Laptop,Electronics,North,6,950.24,5701.44
+ORD2490,2025-06-16,Customer_06,Headphones,Electronics,North,1,110.6,110.6
+ORD2006,2025-06-17,Customer_08,Printer,Electronics,North,4,242.76,971.04
+ORD1503,2025-06-17,Customer_07,Printer,Electronics,North,3,242.67,728.01
+ORD1054,2025-06-17,Customer_24,Office Chair,Furniture,South,5,199.52,997.6
+ORD1773,2025-06-18,Customer_04,Notebook Pack,Stationery,East,4,16.08,64.32
+ORD1019,2025-06-18,Customer_23,Office Chair,Furniture,West,2,199.3,398.6
+ORD2081,2025-06-18,Customer_09,Monitor,Electronics,North,1,293.07,293.07
+ORD2229,2025-06-18,Customer_01,Headphones,Electronics,East,6,115.17,691.02
+ORD1688,2025-06-18,Customer_30,Office Chair,Furniture,North,2,226.59,453.18
+ORD1519,2025-06-18,Customer_28,Standing Desk,Furniture,West,5,473.99,2369.95
+ORD1908,2025-06-19,Customer_06,Headphones,Electronics,West,1,113.44,113.44
+ORD1576,2025-06-19,Customer_20,Monitor,Electronics,South,4,299.28,1197.12
+ORD2215,2025-06-19,Customer_30,Laptop,Electronics,West,3,845.69,2537.07
+ORD1453,2025-06-19,Customer_11,Laptop,Electronics,West,1,986.52,986.52
+ORD1853,2025-06-19,Customer_11,Smartphone,Electronics,West,5,669.62,3348.1
+ORD1964,2025-06-19,Customer_06,Monitor,Electronics,North,4,273.31,1093.24
+ORD1267,2025-06-20,Customer_21,Headphones,Electronics,North,4,121.67,486.68
+ORD1301,2025-06-20,Customer_08,Printer,Electronics,South,2,244.85,489.7
+ORD2143,2025-06-20,Customer_14,Printer,Electronics,North,4,253.53,1014.12
+ORD2026,2025-06-20,Customer_07,Laptop,Electronics,South,4,865.14,3460.56
+ORD1953,2025-06-21,Customer_14,Office Chair,Furniture,East,5,196.33,981.65
+ORD2048,2025-06-21,Customer_11,Notebook Pack,Stationery,South,1,15.51,15.51
+ORD1211,2025-06-21,Customer_09,Notebook Pack,Stationery,East,2,14.24,28.48
+ORD1196,2025-06-21,Customer_07,Headphones,Electronics,North,4,117.61,470.44
+ORD2475,2025-06-21,Customer_10,Headphones,Electronics,West,1,113.3,113.3
+ORD1467,2025-06-21,Customer_08,Standing Desk,Furniture,West,2,462.55,925.1
+ORD2412,2025-06-22,Customer_11,Headphones,Electronics,West,5,120.7,603.5
+ORD1525,2025-06-22,Customer_07,Headphones,Electronics,South,7,122.62,858.34
+ORD1894,2025-06-22,Customer_19,Notebook Pack,Stationery,West,1,14.8,14.8
+ORD1288,2025-06-22,Customer_06,Standing Desk,Furniture,North,6,445.14,2670.84
+ORD1955,2025-06-23,Customer_29,Standing Desk,Furniture,South,2,482.92,965.84
+ORD2479,2025-06-23,Customer_17,Office Chair,Furniture,West,4,216.97,867.88
+ORD1958,2025-06-23,Customer_03,Monitor,Electronics,North,3,281.52,844.56
+ORD1040,2025-06-23,Customer_12,Smartphone,Electronics,West,5,591.33,2956.65
+ORD1738,2025-06-23,Customer_21,Notebook Pack,Stationery,North,4,14.81,59.24
+ORD1962,2025-06-23,Customer_20,Printer,Electronics,West,5,239.52,1197.6
+ORD1298,2025-06-24,Customer_17,Headphones,Electronics,South,4,128.22,512.88
+ORD2459,2025-06-24,Customer_20,Standing Desk,Furniture,East,7,461.65,3231.55
+ORD2268,2025-06-24,Customer_02,Monitor,Electronics,East,1,291.09,291.09
+ORD1294,2025-06-24,Customer_06,Standing Desk,Furniture,East,1,462.32,462.32
+ORD2185,2025-06-25,Customer_18,Headphones,Electronics,East,4,108.36,433.44
+ORD1307,2025-06-25,Customer_05,Standing Desk,Furniture,North,4,489.09,1956.36
+ORD1677,2025-06-25,Customer_24,Laptop,Electronics,East,1,810.77,810.77
+ORD1007,2025-06-25,Customer_13,Notebook Pack,Stationery,West,6,14.06,84.36
+ORD1431,2025-06-25,Customer_24,Notebook Pack,Stationery,West,1,15.39,15.39
+ORD1016,2025-06-26,Customer_16,Standing Desk,Furniture,West,1,473.4,473.4
+ORD2343,2025-06-26,Customer_08,Standing Desk,Furniture,North,2,486.47,972.94
+ORD2457,2025-06-27,Customer_02,Office Chair,Furniture,East,6,192.16,1152.96
+ORD1915,2025-06-27,Customer_03,Office Chair,Furniture,East,1,208.68,208.68
+ORD1655,2025-06-28,Customer_15,Standing Desk,Furniture,East,5,432.36,2161.8
+ORD2238,2025-06-29,Customer_23,Headphones,Electronics,North,6,129.94,779.64
+ORD1417,2025-06-29,Customer_27,Laptop,Electronics,North,1,930.23,930.23
+ORD1797,2025-06-29,Customer_02,Office Chair,Furniture,East,4,199.14,796.56
+ORD2476,2025-06-30,Customer_29,Office Chair,Furniture,West,6,220.74,1324.44
+ORD2039,2025-06-30,Customer_12,Printer,Electronics,South,6,234.05,1404.3
+ORD1048,2025-06-30,Customer_06,Notebook Pack,Stationery,North,4,15.68,62.72
+ORD1313,2025-06-30,Customer_07,Headphones,Electronics,East,6,130.57,783.42
+ORD1018,2025-06-30,Customer_18,Printer,Electronics,East,2,273.69,547.38
+ORD2447,2025-07-01,Customer_06,Monitor,Electronics,North,1,310.05,310.05
+ORD1510,2025-07-01,Customer_30,Monitor,Electronics,East,4,284.1,1136.4
+ORD2141,2025-07-01,Customer_26,Headphones,Electronics,East,6,127.13,762.78
+ORD2163,2025-07-01,Customer_07,Standing Desk,Furniture,North,7,444.48,3111.36
+ORD2096,2025-07-02,Customer_17,Printer,Electronics,West,7,281.59,1971.13
+ORD1753,2025-07-02,Customer_09,Monitor,Electronics,East,4,318.24,1272.96
+ORD2037,2025-07-02,Customer_19,Laptop,Electronics,South,6,919.2,5515.2
+ORD1236,2025-07-03,Customer_11,Notebook Pack,Stationery,West,2,15.55,31.1
+ORD1849,2025-07-04,Customer_07,Standing Desk,Furniture,North,6,451.56,2709.36
+ORD2184,2025-07-04,Customer_02,Office Chair,Furniture,North,5,206.66,1033.3
+ORD1750,2025-07-04,Customer_18,Monitor,Electronics,West,5,298.76,1493.8
+ORD2214,2025-07-04,Customer_21,Laptop,Electronics,West,4,828.75,3315.0
+ORD1266,2025-07-04,Customer_23,Office Chair,Furniture,North,7,216.67,1516.69
+ORD1117,2025-07-05,Customer_20,Smartphone,Electronics,South,7,656.41,4594.87
+ORD2451,2025-07-05,Customer_08,Laptop,Electronics,North,5,892.03,4460.15
+ORD2400,2025-07-05,Customer_12,Printer,Electronics,North,1,277.33,277.33
+ORD1565,2025-07-05,Customer_08,Smartphone,Electronics,East,5,651.68,3258.4
+ORD1812,2025-07-06,Customer_21,Notebook Pack,Stationery,North,3,14.54,43.62
+ORD2242,2025-07-06,Customer_25,Monitor,Electronics,West,7,317.27,2220.89
+ORD2310,2025-07-07,Customer_16,Standing Desk,Furniture,East,7,481.32,3369.24
+ORD2458,2025-07-07,Customer_04,Headphones,Electronics,South,3,124.03,372.09
+ORD1179,2025-07-07,Customer_06,Standing Desk,Furniture,West,2,515.96,1031.92
+ORD1415,2025-07-08,Customer_13,Notebook Pack,Stationery,West,7,15.94,111.58
+ORD1763,2025-07-08,Customer_20,Monitor,Electronics,East,5,323.14,1615.7
+ORD1082,2025-07-08,Customer_09,Smartphone,Electronics,West,5,695.48,3477.4
+ORD2375,2025-07-08,Customer_18,Monitor,Electronics,East,2,298.67,597.34
+ORD1219,2025-07-08,Customer_13,Monitor,Electronics,South,1,278.92,278.92
+ORD2213,2025-07-09,Customer_22,Printer,Electronics,North,7,269.67,1887.69
+ORD2449,2025-07-09,Customer_27,Laptop,Electronics,South,4,927.37,3709.48
+ORD1185,2025-07-09,Customer_29,Office Chair,Furniture,West,5,203.61,1018.05
+ORD1632,2025-07-09,Customer_02,Office Chair,Furniture,East,5,198.22,991.1
+ORD1299,2025-07-10,Customer_25,Laptop,Electronics,North,2,946.44,1892.88
+ORD2231,2025-07-10,Customer_28,Notebook Pack,Stationery,East,1,16.16,16.16
+ORD2276,2025-07-10,Customer_03,Notebook Pack,Stationery,North,6,15.62,93.72
+ORD1931,2025-07-10,Customer_03,Notebook Pack,Stationery,North,2,14.83,29.66
+ORD1348,2025-07-10,Customer_04,Smartphone,Electronics,West,1,602.76,602.76
+ORD1976,2025-07-10,Customer_20,Laptop,Electronics,East,4,847.73,3390.92
+ORD1358,2025-07-11,Customer_06,Laptop,Electronics,East,1,814.19,814.19
+ORD1988,2025-07-11,Customer_13,Smartphone,Electronics,South,4,638.57,2554.28
+ORD1528,2025-07-11,Customer_06,Monitor,Electronics,North,3,305.52,916.56
+ORD1164,2025-07-11,Customer_04,Office Chair,Furniture,South,6,213.33,1279.98
+ORD1456,2025-07-12,Customer_23,Smartphone,Electronics,West,5,696.63,3483.15
+ORD2108,2025-07-12,Customer_16,Monitor,Electronics,East,6,295.75,1774.5
+ORD2017,2025-07-12,Customer_05,Office Chair,Furniture,West,7,197.1,1379.7
+ORD2448,2025-07-13,Customer_17,Notebook Pack,Stationery,North,7,14.61,102.27
+ORD1910,2025-07-13,Customer_07,Printer,Electronics,West,7,247.92,1735.44
+ORD2038,2025-07-13,Customer_10,Office Chair,Furniture,North,1,204.51,204.51
+ORD1000,2025-07-13,Customer_24,Laptop,Electronics,East,7,813.39,5693.73
+ORD1547,2025-07-13,Customer_27,Standing Desk,Furniture,South,7,511.74,3582.18
+ORD1419,2025-07-13,Customer_09,Standing Desk,Furniture,South,3,471.16,1413.48
+ORD1490,2025-07-13,Customer_04,Monitor,Electronics,North,2,270.41,540.82
+ORD1401,2025-07-13,Customer_28,Printer,Electronics,South,3,249.0,747.0
+ORD2092,2025-07-14,Customer_11,Printer,Electronics,North,2,264.4,528.8
+ORD2106,2025-07-14,Customer_04,Smartphone,Electronics,East,3,592.48,1777.44
+ORD1457,2025-07-14,Customer_01,Notebook Pack,Stationery,North,4,14.23,56.92
+ORD1168,2025-07-14,Customer_25,Headphones,Electronics,North,2,129.0,258.0
+ORD1052,2025-07-14,Customer_23,Headphones,Electronics,South,4,108.04,432.16
+ORD1809,2025-07-14,Customer_19,Monitor,Electronics,North,5,286.91,1434.55
+ORD1224,2025-07-14,Customer_19,Notebook Pack,Stationery,South,7,13.71,95.97
+ORD1135,2025-07-15,Customer_01,Headphones,Electronics,West,2,109.27,218.54
+ORD1400,2025-07-15,Customer_25,Monitor,Electronics,West,1,299.93,299.93
+ORD2293,2025-07-15,Customer_03,Laptop,Electronics,North,2,830.55,1661.1
+ORD1421,2025-07-15,Customer_24,Notebook Pack,Stationery,South,3,13.98,41.94
+ORD2165,2025-07-15,Customer_21,Laptop,Electronics,North,1,935.29,935.29
+ORD2265,2025-07-15,Customer_30,Laptop,Electronics,West,2,884.39,1768.78
+ORD1850,2025-07-16,Customer_23,Monitor,Electronics,West,1,324.79,324.79
+ORD2395,2025-07-16,Customer_16,Standing Desk,Furniture,West,4,506.61,2026.44
+ORD1835,2025-07-16,Customer_22,Printer,Electronics,South,3,274.33,822.99
+ORD1638,2025-07-16,Customer_03,Printer,Electronics,North,7,245.82,1720.74
+ORD1347,2025-07-17,Customer_04,Monitor,Electronics,South,7,309.35,2165.45
+ORD2423,2025-07-17,Customer_14,Notebook Pack,Stationery,South,3,14.41,43.23
+ORD1617,2025-07-17,Customer_13,Headphones,Electronics,East,3,126.4,379.2
+ORD2320,2025-07-17,Customer_20,Laptop,Electronics,West,4,935.27,3741.08
+ORD1636,2025-07-18,Customer_17,Smartphone,Electronics,North,6,592.2,3553.2
+ORD1653,2025-07-18,Customer_16,Printer,Electronics,West,5,245.3,1226.5
+ORD2274,2025-07-18,Customer_01,Printer,Electronics,East,4,245.62,982.48
+ORD2335,2025-07-18,Customer_13,Monitor,Electronics,West,1,275.78,275.78
+ORD2333,2025-07-19,Customer_27,Printer,Electronics,East,4,267.97,1071.88
+ORD1842,2025-07-19,Customer_17,Monitor,Electronics,West,2,322.12,644.24
+ORD1618,2025-07-19,Customer_14,Laptop,Electronics,West,3,819.68,2459.04
+ORD1076,2025-07-20,Customer_04,Headphones,Electronics,North,7,127.71,893.97
+ORD1124,2025-07-21,Customer_14,Printer,Electronics,South,7,239.68,1677.76
+ORD1339,2025-07-21,Customer_27,Monitor,Electronics,South,4,279.36,1117.44
+ORD1751,2025-07-21,Customer_24,Smartphone,Electronics,East,2,593.08,1186.16
+ORD1903,2025-07-21,Customer_01,Monitor,Electronics,North,6,278.79,1672.74
+ORD1834,2025-07-21,Customer_05,Printer,Electronics,West,7,252.61,1768.27
+ORD1496,2025-07-21,Customer_04,Laptop,Electronics,North,6,840.31,5041.86
+ORD1530,2025-07-22,Customer_12,Standing Desk,Furniture,North,2,432.72,865.44
+ORD1163,2025-07-22,Customer_10,Office Chair,Furniture,East,5,192.49,962.45
+ORD2085,2025-07-22,Customer_19,Printer,Electronics,South,1,283.43,283.43
+ORD1437,2025-07-22,Customer_20,Monitor,Electronics,East,4,313.46,1253.84
+ORD1064,2025-07-23,Customer_22,Office Chair,Furniture,South,2,195.74,391.48
+ORD1925,2025-07-24,Customer_18,Monitor,Electronics,North,4,308.76,1235.04
+ORD1474,2025-07-24,Customer_09,Notebook Pack,Stationery,North,1,15.25,15.25
+ORD2382,2025-07-25,Customer_11,Headphones,Electronics,East,2,126.84,253.68
+ORD2133,2025-07-25,Customer_16,Printer,Electronics,East,7,237.7,1663.9
+ORD1935,2025-07-25,Customer_26,Monitor,Electronics,North,1,275.51,275.51
+ORD1561,2025-07-25,Customer_06,Laptop,Electronics,West,4,839.01,3356.04
+ORD2103,2025-07-25,Customer_01,Smartphone,Electronics,South,5,703.35,3516.75
+ORD1901,2025-07-26,Customer_29,Laptop,Electronics,East,2,846.22,1692.44
+ORD2187,2025-07-26,Customer_07,Standing Desk,Furniture,South,2,450.75,901.5
+ORD2155,2025-07-26,Customer_06,Standing Desk,Furniture,West,6,451.48,2708.88
+ORD1171,2025-07-26,Customer_29,Laptop,Electronics,North,4,865.17,3460.68
+ORD2146,2025-07-27,Customer_13,Standing Desk,Furniture,North,5,487.72,2438.6
+ORD1043,2025-07-27,Customer_16,Headphones,Electronics,South,7,119.84,838.88
+ORD2356,2025-07-27,Customer_29,Headphones,Electronics,North,1,121.95,121.95
+ORD2297,2025-07-27,Customer_24,Notebook Pack,Stationery,West,2,16.22,32.44
+ORD2391,2025-07-27,Customer_25,Standing Desk,Furniture,North,4,488.5,1954.0
+ORD2079,2025-07-27,Customer_23,Printer,Electronics,North,5,273.11,1365.55
+ORD1802,2025-07-28,Customer_25,Standing Desk,Furniture,East,4,501.69,2006.76
+ORD1258,2025-07-28,Customer_17,Smartphone,Electronics,East,6,593.48,3560.88
+ORD1227,2025-07-28,Customer_12,Standing Desk,Furniture,North,3,456.89,1370.67
+ORD1698,2025-07-28,Customer_09,Laptop,Electronics,West,4,945.6,3782.4
+ORD2236,2025-07-29,Customer_29,Laptop,Electronics,East,4,920.29,3681.16
+ORD1396,2025-07-29,Customer_14,Laptop,Electronics,East,7,849.76,5948.32
+ORD1130,2025-07-29,Customer_11,Standing Desk,Furniture,West,3,458.2,1374.6
+ORD2060,2025-07-30,Customer_05,Printer,Electronics,West,7,282.33,1976.31
+ORD1746,2025-07-30,Customer_14,Standing Desk,Furniture,East,3,480.9,1442.7
+ORD1126,2025-07-30,Customer_25,Laptop,Electronics,West,2,962.9,1925.8
+ORD2029,2025-07-30,Customer_13,Headphones,Electronics,North,5,127.45,637.25
+ORD1264,2025-07-30,Customer_16,Monitor,Electronics,North,4,296.3,1185.2
+ORD2178,2025-07-31,Customer_14,Headphones,Electronics,West,5,126.11,630.55
+ORD2125,2025-07-31,Customer_16,Printer,Electronics,South,2,265.6,531.2
+ORD2218,2025-07-31,Customer_16,Printer,Electronics,South,5,239.11,1195.55
+ORD1259,2025-08-01,Customer_13,Standing Desk,Furniture,East,3,521.48,1564.44
+ORD2252,2025-08-01,Customer_30,Laptop,Electronics,North,3,946.74,2840.22
+ORD1622,2025-08-01,Customer_10,Smartphone,Electronics,North,6,641.11,3846.66
+ORD2228,2025-08-01,Customer_11,Smartphone,Electronics,West,7,702.82,4919.74
+ORD1963,2025-08-02,Customer_12,Smartphone,Electronics,East,1,681.19,681.19
+ORD1357,2025-08-02,Customer_27,Monitor,Electronics,North,1,307.81,307.81
+ORD1290,2025-08-02,Customer_13,Printer,Electronics,East,7,259.54,1816.78
+ORD2047,2025-08-02,Customer_08,Standing Desk,Furniture,South,7,491.68,3441.76
+ORD1127,2025-08-02,Customer_28,Printer,Electronics,East,1,251.21,251.21
+ORD1689,2025-08-02,Customer_06,Printer,Electronics,North,2,263.77,527.54
+ORD1536,2025-08-02,Customer_01,Office Chair,Furniture,East,7,226.62,1586.34
+ORD2446,2025-08-03,Customer_10,Monitor,Electronics,North,1,273.42,273.42
+ORD1332,2025-08-03,Customer_08,Headphones,Electronics,North,3,124.37,373.11
+ORD1734,2025-08-03,Customer_10,Smartphone,Electronics,North,3,677.62,2032.86
+ORD1844,2025-08-03,Customer_28,Laptop,Electronics,South,3,863.66,2590.98
+ORD1564,2025-08-04,Customer_24,Monitor,Electronics,North,6,325.32,1951.92
+ORD1045,2025-08-04,Customer_27,Monitor,Electronics,North,5,286.49,1432.45
+ORD2059,2025-08-04,Customer_18,Headphones,Electronics,North,5,111.58,557.9
+ORD2465,2025-08-05,Customer_03,Laptop,Electronics,West,6,853.32,5119.92
+ORD1107,2025-08-05,Customer_12,Notebook Pack,Stationery,East,2,14.15,28.3
+ORD2175,2025-08-05,Customer_11,Headphones,Electronics,East,1,129.69,129.69
+ORD1143,2025-08-06,Customer_18,Office Chair,Furniture,North,5,190.64,953.2
+ORD1153,2025-08-06,Customer_24,Headphones,Electronics,West,2,110.99,221.98
+ORD2472,2025-08-07,Customer_15,Office Chair,Furniture,West,3,211.49,634.47
+ORD2113,2025-08-07,Customer_30,Headphones,Electronics,East,4,123.64,494.56
+ORD1944,2025-08-07,Customer_04,Smartphone,Electronics,East,6,709.87,4259.22
+ORD1004,2025-08-07,Customer_22,Office Chair,Furniture,West,6,194.49,1166.94
+ORD1523,2025-08-07,Customer_06,Printer,Electronics,North,2,266.73,533.46
+ORD1913,2025-08-08,Customer_17,Monitor,Electronics,East,2,281.32,562.64
+ORD1263,2025-08-08,Customer_26,Monitor,Electronics,North,7,300.44,2103.08
+ORD1079,2025-08-08,Customer_14,Notebook Pack,Stationery,South,5,13.73,68.65
+ORD1024,2025-08-09,Customer_12,Printer,Electronics,West,3,272.13,816.39
+ORD1372,2025-08-09,Customer_10,Office Chair,Furniture,North,4,218.23,872.92
+ORD1712,2025-08-09,Customer_25,Notebook Pack,Stationery,North,7,16.39,114.73
+ORD1067,2025-08-09,Customer_22,Headphones,Electronics,West,2,108.89,217.78
+ORD1451,2025-08-10,Customer_02,Monitor,Electronics,East,2,314.51,629.02
+ORD1682,2025-08-10,Customer_07,Monitor,Electronics,East,6,270.19,1621.14
+ORD2191,2025-08-10,Customer_11,Headphones,Electronics,North,7,110.53,773.71
+ORD1161,2025-08-11,Customer_27,Notebook Pack,Stationery,West,4,16.25,65.0
+ORD1257,2025-08-11,Customer_06,Laptop,Electronics,West,1,988.1,988.1
+ORD1623,2025-08-11,Customer_14,Office Chair,Furniture,North,5,212.28,1061.4
+ORD1993,2025-08-11,Customer_09,Office Chair,Furniture,North,6,202.58,1215.48
+ORD1643,2025-08-11,Customer_15,Office Chair,Furniture,East,5,228.04,1140.2
+ORD2470,2025-08-12,Customer_13,Monitor,Electronics,East,5,293.13,1465.65
+ORD2363,2025-08-12,Customer_30,Smartphone,Electronics,West,7,680.48,4763.36
+ORD1328,2025-08-13,Customer_12,Smartphone,Electronics,North,4,687.29,2749.16
+ORD1526,2025-08-13,Customer_04,Monitor,Electronics,East,4,296.09,1184.36
+ORD2426,2025-08-14,Customer_08,Notebook Pack,Stationery,South,2,15.96,31.92
+ORD1053,2025-08-14,Customer_11,Office Chair,Furniture,South,5,217.38,1086.9
+ORD2403,2025-08-14,Customer_29,Headphones,Electronics,North,7,127.15,890.05
+ORD1345,2025-08-14,Customer_23,Headphones,Electronics,West,3,115.24,345.72
+ORD1892,2025-08-14,Customer_14,Standing Desk,Furniture,West,7,525.92,3681.44
+ORD1384,2025-08-14,Customer_24,Laptop,Electronics,East,6,964.77,5788.62
+ORD2324,2025-08-14,Customer_30,Printer,Electronics,South,5,253.04,1265.2
+ORD2128,2025-08-14,Customer_17,Standing Desk,Furniture,South,2,437.66,875.32
+ORD2225,2025-08-14,Customer_06,Monitor,Electronics,South,5,322.89,1614.45
+ORD2007,2025-08-15,Customer_20,Standing Desk,Furniture,South,4,470.4,1881.6
+ORD2416,2025-08-15,Customer_15,Notebook Pack,Stationery,North,3,15.89,47.67
+ORD1137,2025-08-15,Customer_15,Laptop,Electronics,North,5,934.16,4670.8
+ORD1160,2025-08-15,Customer_04,Monitor,Electronics,East,5,311.17,1555.85
+ORD1916,2025-08-15,Customer_03,Standing Desk,Furniture,North,4,435.0,1740.0
+ORD1039,2025-08-15,Customer_06,Notebook Pack,Stationery,North,5,14.6,73.0
+ORD1725,2025-08-15,Customer_30,Laptop,Electronics,West,6,889.61,5337.66
+ORD1481,2025-08-16,Customer_08,Printer,Electronics,North,7,245.64,1719.48
+ORD2328,2025-08-17,Customer_02,Notebook Pack,Stationery,East,5,15.08,75.4
+ORD2397,2025-08-17,Customer_08,Notebook Pack,Stationery,South,4,16.02,64.08
+ORD2406,2025-08-17,Customer_08,Headphones,Electronics,North,7,123.25,862.75
+ORD1627,2025-08-17,Customer_08,Headphones,Electronics,South,5,113.13,565.65
+ORD1858,2025-08-17,Customer_10,Notebook Pack,Stationery,North,5,14.59,72.95
+ORD1678,2025-08-17,Customer_17,Standing Desk,Furniture,South,5,480.4,2402.0
+ORD2220,2025-08-17,Customer_04,Notebook Pack,Stationery,South,5,15.79,78.95
+ORD1254,2025-08-17,Customer_08,Notebook Pack,Stationery,North,2,16.27,32.54
+ORD1252,2025-08-18,Customer_05,Smartphone,Electronics,West,2,632.33,1264.66
+ORD1657,2025-08-19,Customer_28,Notebook Pack,Stationery,North,2,15.27,30.54
+ORD2495,2025-08-19,Customer_19,Office Chair,Furniture,East,4,204.8,819.2
+ORD1730,2025-08-19,Customer_22,Notebook Pack,Stationery,East,3,15.9,47.7
+ORD1509,2025-08-19,Customer_11,Smartphone,Electronics,East,4,637.37,2549.48
+ORD2067,2025-08-20,Customer_13,Notebook Pack,Stationery,North,1,13.97,13.97
+ORD2257,2025-08-20,Customer_03,Standing Desk,Furniture,West,7,479.35,3355.45
+ORD1684,2025-08-20,Customer_30,Smartphone,Electronics,East,5,592.06,2960.3
+ORD1484,2025-08-21,Customer_13,Office Chair,Furniture,North,6,201.9,1211.4
+ORD2491,2025-08-21,Customer_06,Office Chair,Furniture,North,3,217.89,653.67
+ORD2188,2025-08-21,Customer_02,Standing Desk,Furniture,North,4,505.86,2023.44
+ORD1084,2025-08-21,Customer_11,Notebook Pack,Stationery,South,1,15.52,15.52
+ORD2469,2025-08-21,Customer_23,Laptop,Electronics,South,7,953.86,6677.02
+ORD1493,2025-08-22,Customer_23,Standing Desk,Furniture,West,1,466.11,466.11
+ORD1936,2025-08-22,Customer_16,Smartphone,Electronics,East,2,692.9,1385.8
+ORD1947,2025-08-24,Customer_12,Smartphone,Electronics,North,2,630.77,1261.54
+ORD1683,2025-08-24,Customer_18,Monitor,Electronics,West,6,310.43,1862.58
+ORD1214,2025-08-24,Customer_17,Notebook Pack,Stationery,North,2,15.2,30.4
+ORD1216,2025-08-24,Customer_01,Laptop,Electronics,West,5,872.06,4360.3
+ORD1860,2025-08-25,Customer_17,Monitor,Electronics,South,2,308.68,617.36
+ORD2485,2025-08-25,Customer_12,Printer,Electronics,West,7,253.04,1771.28
+ORD1571,2025-08-25,Customer_26,Office Chair,Furniture,East,3,203.43,610.29
+ORD1514,2025-08-25,Customer_08,Monitor,Electronics,North,6,281.82,1690.92
+ORD1386,2025-08-26,Customer_24,Laptop,Electronics,South,3,829.63,2488.89
+ORD2404,2025-08-26,Customer_08,Smartphone,Electronics,South,5,645.43,3227.15
+ORD2253,2025-08-26,Customer_11,Printer,Electronics,East,6,273.15,1638.9
+ORD1980,2025-08-26,Customer_14,Standing Desk,Furniture,South,5,434.49,2172.45
+ORD2050,2025-08-27,Customer_10,Standing Desk,Furniture,West,7,459.63,3217.41
+ORD1879,2025-08-27,Customer_02,Notebook Pack,Stationery,West,4,15.99,63.96
+ORD1757,2025-08-27,Customer_17,Office Chair,Furniture,North,6,206.76,1240.56
+ORD1311,2025-08-27,Customer_13,Notebook Pack,Stationery,East,5,15.54,77.7
+ORD1823,2025-08-27,Customer_06,Notebook Pack,Stationery,East,2,13.62,27.24
+ORD2429,2025-08-27,Customer_28,Printer,Electronics,North,2,236.39,472.78
+ORD1222,2025-08-27,Customer_24,Notebook Pack,Stationery,East,6,14.3,85.8
+ORD1192,2025-08-28,Customer_21,Standing Desk,Furniture,North,3,501.79,1505.37
+ORD2118,2025-08-28,Customer_07,Notebook Pack,Stationery,North,1,15.32,15.32
+ORD1895,2025-08-28,Customer_28,Standing Desk,Furniture,East,7,471.52,3300.64
+ORD1585,2025-08-28,Customer_07,Monitor,Electronics,East,1,294.82,294.82
+ORD1694,2025-08-28,Customer_12,Laptop,Electronics,North,2,968.46,1936.92
+ORD1096,2025-08-29,Customer_06,Smartphone,Electronics,West,5,641.5,3207.5
+ORD1522,2025-08-29,Customer_25,Smartphone,Electronics,West,7,699.28,4894.96
+ORD1549,2025-08-29,Customer_20,Notebook Pack,Stationery,West,6,16.44,98.64
+ORD1480,2025-08-29,Customer_24,Headphones,Electronics,North,7,129.86,909.02
+ORD2083,2025-08-29,Customer_24,Standing Desk,Furniture,North,1,500.83,500.83
+ORD2396,2025-08-29,Customer_09,Standing Desk,Furniture,South,2,443.19,886.38
+ORD1521,2025-08-29,Customer_10,Smartphone,Electronics,West,2,694.19,1388.38
+ORD2270,2025-08-30,Customer_24,Headphones,Electronics,East,4,127.23,508.92
+ORD1458,2025-08-30,Customer_26,Printer,Electronics,North,7,252.77,1769.39
+ORD2499,2025-08-30,Customer_11,Printer,Electronics,North,6,276.58,1659.48
+ORD1587,2025-08-30,Customer_21,Laptop,Electronics,North,7,884.94,6194.58
+ORD2376,2025-08-31,Customer_10,Monitor,Electronics,West,3,306.44,919.32
+ORD1147,2025-08-31,Customer_26,Smartphone,Electronics,North,1,612.96,612.96
+ORD1741,2025-08-31,Customer_10,Printer,Electronics,West,7,249.25,1744.75
+ORD1601,2025-09-01,Customer_19,Printer,Electronics,South,7,249.32,1745.24
+ORD2062,2025-09-01,Customer_19,Smartphone,Electronics,East,7,598.16,4187.12
+ORD1583,2025-09-01,Customer_10,Laptop,Electronics,West,6,819.28,4915.68
+ORD2221,2025-09-01,Customer_16,Standing Desk,Furniture,South,2,438.18,876.36
+ORD2115,2025-09-02,Customer_15,Office Chair,Furniture,South,3,198.53,595.59
+ORD1112,2025-09-02,Customer_02,Standing Desk,Furniture,South,4,496.82,1987.28
+ORD1312,2025-09-03,Customer_28,Laptop,Electronics,East,1,901.39,901.39
+ORD2431,2025-09-03,Customer_03,Smartphone,Electronics,North,2,617.21,1234.42
+ORD2158,2025-09-03,Customer_06,Office Chair,Furniture,East,2,194.6,389.2
+ORD1779,2025-09-03,Customer_14,Printer,Electronics,South,6,272.03,1632.18
+ORD2316,2025-09-03,Customer_30,Notebook Pack,Stationery,West,3,14.4,43.2
+ORD1611,2025-09-04,Customer_21,Office Chair,Furniture,East,6,214.71,1288.26
+ORD1937,2025-09-04,Customer_15,Smartphone,Electronics,West,7,611.54,4280.78
+ORD1533,2025-09-05,Customer_30,Headphones,Electronics,South,2,120.6,241.2
+ORD1167,2025-09-05,Customer_09,Smartphone,Electronics,East,4,629.24,2516.96
+ORD2131,2025-09-06,Customer_28,Notebook Pack,Stationery,West,5,14.04,70.2
+ORD1202,2025-09-06,Customer_24,Office Chair,Furniture,East,4,203.38,813.52
+ORD1784,2025-09-06,Customer_30,Office Chair,Furniture,West,6,197.39,1184.34
+ORD1967,2025-09-06,Customer_08,Headphones,Electronics,North,6,111.39,668.34
+ORD1472,2025-09-06,Customer_23,Office Chair,Furniture,South,4,202.32,809.28
+ORD1279,2025-09-07,Customer_22,Laptop,Electronics,East,2,927.99,1855.98
+ORD1766,2025-09-07,Customer_21,Standing Desk,Furniture,West,1,463.48,463.48
+ORD1009,2025-09-07,Customer_25,Laptop,Electronics,South,4,867.85,3471.4
+ORD1195,2025-09-07,Customer_06,Laptop,Electronics,East,5,930.35,4651.75
+ORD1635,2025-09-08,Customer_15,Notebook Pack,Stationery,North,5,15.0,75.0
+ORD1755,2025-09-08,Customer_10,Office Chair,Furniture,West,4,225.78,903.12
+ORD1046,2025-09-08,Customer_22,Office Chair,Furniture,East,5,230.16,1150.8
+ORD2217,2025-09-09,Customer_11,Notebook Pack,Stationery,South,4,16.49,65.96
+ORD2016,2025-09-10,Customer_09,Office Chair,Furniture,North,4,196.39,785.56
+ORD1113,2025-09-10,Customer_28,Office Chair,Furniture,West,5,208.61,1043.05
+ORD1574,2025-09-12,Customer_29,Laptop,Electronics,West,6,987.18,5923.08
+ORD1710,2025-09-13,Customer_11,Notebook Pack,Stationery,West,5,14.85,74.25
+ORD1874,2025-09-13,Customer_19,Notebook Pack,Stationery,North,7,15.45,108.15
+ORD1232,2025-09-13,Customer_21,Laptop,Electronics,North,2,871.79,1743.58
+ORD1680,2025-09-13,Customer_22,Notebook Pack,Stationery,East,4,15.47,61.88
+ORD1640,2025-09-13,Customer_22,Notebook Pack,Stationery,North,6,15.36,92.16
+ORD2000,2025-09-13,Customer_10,Printer,Electronics,West,2,242.9,485.8
+ORD1094,2025-09-14,Customer_28,Monitor,Electronics,East,4,282.68,1130.72
+ORD1619,2025-09-14,Customer_03,Smartphone,Electronics,North,6,650.8,3904.8
+ORD1038,2025-09-15,Customer_09,Headphones,Electronics,North,3,111.39,334.17
+ORD2206,2025-09-15,Customer_28,Standing Desk,Furniture,West,5,518.77,2593.85
+ORD1654,2025-09-15,Customer_21,Standing Desk,Furniture,South,4,438.03,1752.12
+ORD2341,2025-09-15,Customer_13,Smartphone,Electronics,South,3,628.27,1884.81
+ORD2273,2025-09-15,Customer_10,Notebook Pack,Stationery,South,3,15.08,45.24
+ORD2319,2025-09-16,Customer_02,Office Chair,Furniture,South,2,206.22,412.44
+ORD1099,2025-09-16,Customer_09,Smartphone,Electronics,North,2,636.66,1273.32
+ORD2298,2025-09-16,Customer_02,Standing Desk,Furniture,North,6,495.32,2971.92
+ORD1907,2025-09-17,Customer_30,Smartphone,Electronics,North,5,606.24,3031.2
+ORD1021,2025-09-17,Customer_04,Headphones,Electronics,East,7,117.93,825.51
+ORD1393,2025-09-17,Customer_06,Standing Desk,Furniture,West,2,457.8,915.6
+ORD1744,2025-09-17,Customer_08,Printer,Electronics,East,5,257.96,1289.8
+ORD1554,2025-09-18,Customer_13,Monitor,Electronics,North,5,319.01,1595.05
+ORD1852,2025-09-18,Customer_04,Monitor,Electronics,West,3,309.47,928.41
+ORD1794,2025-09-18,Customer_27,Office Chair,Furniture,East,1,221.02,221.02
+ORD2480,2025-09-19,Customer_15,Smartphone,Electronics,West,7,650.11,4550.77
+ORD2440,2025-09-19,Customer_10,Printer,Electronics,North,1,270.02,270.02
+ORD1174,2025-09-19,Customer_30,Notebook Pack,Stationery,West,7,15.48,108.36
+ORD1630,2025-09-20,Customer_14,Notebook Pack,Stationery,North,1,14.4,14.4
+ORD1249,2025-09-20,Customer_12,Laptop,Electronics,South,7,829.94,5809.58
+ORD1402,2025-09-20,Customer_05,Headphones,Electronics,West,3,112.32,336.96
+ORD1518,2025-09-20,Customer_21,Office Chair,Furniture,West,2,214.24,428.48
+ORD2468,2025-09-20,Customer_27,Printer,Electronics,West,3,266.28,798.84
+ORD1563,2025-09-20,Customer_24,Smartphone,Electronics,North,3,603.84,1811.52
+ORD2484,2025-09-20,Customer_15,Office Chair,Furniture,North,2,217.02,434.04
+ORD2437,2025-09-21,Customer_29,Notebook Pack,Stationery,West,7,14.68,102.76
+ORD2292,2025-09-21,Customer_15,Office Chair,Furniture,West,5,194.56,972.8
+ORD2097,2025-09-21,Customer_05,Printer,Electronics,East,4,255.51,1022.04
+ORD1140,2025-09-21,Customer_15,Monitor,Electronics,East,5,282.04,1410.2
+ORD1097,2025-09-22,Customer_10,Notebook Pack,Stationery,West,3,14.05,42.15
+ORD2358,2025-09-22,Customer_21,Laptop,Electronics,North,3,909.8,2729.4
+ORD1566,2025-09-22,Customer_13,Smartphone,Electronics,North,2,666.06,1332.12
+ORD2354,2025-09-22,Customer_15,Smartphone,Electronics,West,4,590.63,2362.52
+ORD1169,2025-09-22,Customer_19,Laptop,Electronics,West,3,859.27,2577.81
+ORD1767,2025-09-23,Customer_23,Office Chair,Furniture,North,4,225.53,902.12
+ORD1378,2025-09-23,Customer_26,Office Chair,Furniture,North,6,205.28,1231.68
+ORD1284,2025-09-23,Customer_13,Office Chair,Furniture,West,4,229.61,918.44
+ORD1517,2025-09-23,Customer_28,Laptop,Electronics,East,2,897.61,1795.22
+ORD2072,2025-09-24,Customer_26,Printer,Electronics,East,7,260.06,1820.42
+ORD2208,2025-09-24,Customer_07,Headphones,Electronics,North,4,109.38,437.52
+ORD2190,2025-09-24,Customer_13,Office Chair,Furniture,North,3,211.92,635.76
+ORD1223,2025-09-24,Customer_24,Smartphone,Electronics,East,1,664.62,664.62
+ORD2464,2025-09-25,Customer_14,Printer,Electronics,West,7,270.11,1890.77
+ORD1072,2025-09-25,Customer_08,Office Chair,Furniture,South,2,195.84,391.68
+ORD1213,2025-09-25,Customer_29,Office Chair,Furniture,East,6,226.85,1361.1
+ORD1586,2025-09-25,Customer_14,Notebook Pack,Stationery,East,5,15.85,79.25
+ORD1556,2025-09-26,Customer_22,Notebook Pack,Stationery,South,5,15.15,75.75
+ORD1090,2025-09-26,Customer_11,Office Chair,Furniture,North,1,198.89,198.89
+ORD1359,2025-09-26,Customer_16,Notebook Pack,Stationery,South,7,14.34,100.38
+ORD1899,2025-09-26,Customer_28,Standing Desk,Furniture,North,1,435.92,435.92
+ORD1101,2025-09-27,Customer_04,Smartphone,Electronics,West,1,704.99,704.99
+ORD1843,2025-09-27,Customer_10,Laptop,Electronics,West,5,914.84,4574.2
+ORD1557,2025-09-27,Customer_11,Monitor,Electronics,East,4,302.98,1211.92
+ORD1360,2025-09-28,Customer_30,Printer,Electronics,West,5,260.28,1301.4
+ORD1465,2025-09-28,Customer_23,Monitor,Electronics,North,5,270.55,1352.75
+ORD1614,2025-09-28,Customer_23,Notebook Pack,Stationery,South,3,13.85,41.55
+ORD1221,2025-09-28,Customer_08,Office Chair,Furniture,West,4,211.81,847.24
+ORD1012,2025-09-29,Customer_02,Notebook Pack,Stationery,South,4,16.13,64.52
+ORD1671,2025-09-29,Customer_03,Standing Desk,Furniture,North,7,492.07,3444.49
+ORD2137,2025-09-29,Customer_08,Headphones,Electronics,West,6,125.07,750.42
+ORD1241,2025-09-29,Customer_07,Standing Desk,Furniture,South,3,453.66,1360.98
+ORD1344,2025-09-29,Customer_17,Monitor,Electronics,North,2,293.69,587.38
+ORD1902,2025-09-30,Customer_16,Smartphone,Electronics,South,1,634.95,634.95
+ORD1398,2025-09-30,Customer_01,Headphones,Electronics,East,6,129.33,775.98
+ORD2486,2025-09-30,Customer_17,Smartphone,Electronics,North,6,590.55,3543.3
+ORD1824,2025-09-30,Customer_18,Standing Desk,Furniture,West,4,445.95,1783.8
+ORD1542,2025-09-30,Customer_03,Smartphone,Electronics,East,7,626.11,4382.77
+ORD1624,2025-09-30,Customer_25,Standing Desk,Furniture,North,6,485.04,2910.24
+ORD1793,2025-10-01,Customer_20,Printer,Electronics,South,1,268.74,268.74
+ORD1543,2025-10-01,Customer_24,Smartphone,Electronics,West,2,636.73,1273.46
+ORD1851,2025-10-01,Customer_02,Printer,Electronics,North,4,273.16,1092.64
+ORD1166,2025-10-02,Customer_23,Headphones,Electronics,North,4,127.46,509.84
+ORD1847,2025-10-02,Customer_11,Laptop,Electronics,South,3,944.77,2834.31
+ORD1548,2025-10-02,Customer_10,Standing Desk,Furniture,East,6,447.28,2683.68
+ORD2002,2025-10-02,Customer_02,Standing Desk,Furniture,North,2,442.82,885.64
+ORD1598,2025-10-02,Customer_09,Notebook Pack,Stationery,West,1,15.98,15.98
+ORD1483,2025-10-02,Customer_07,Printer,Electronics,South,3,242.35,727.05
+ORD1861,2025-10-02,Customer_20,Monitor,Electronics,North,6,274.64,1647.84
+ORD2105,2025-10-03,Customer_14,Smartphone,Electronics,South,7,657.35,4601.45
+ORD1494,2025-10-03,Customer_28,Headphones,Electronics,South,6,122.29,733.74
+ORD2013,2025-10-03,Customer_15,Headphones,Electronics,South,1,115.85,115.85
+ORD1928,2025-10-03,Customer_20,Office Chair,Furniture,North,4,227.97,911.88
+ORD1289,2025-10-03,Customer_06,Office Chair,Furniture,East,7,217.75,1524.25
+ORD2104,2025-10-04,Customer_03,Headphones,Electronics,South,2,121.15,242.3
+ORD1921,2025-10-04,Customer_19,Standing Desk,Furniture,East,5,478.99,2394.95
+ORD1173,2025-10-04,Customer_11,Notebook Pack,Stationery,North,5,14.34,71.7
+ORD1864,2025-10-05,Customer_19,Printer,Electronics,South,7,279.99,1959.93
+ORD1367,2025-10-05,Customer_09,Headphones,Electronics,West,1,113.71,113.71
+ORD2282,2025-10-06,Customer_06,Office Chair,Furniture,South,1,208.53,208.53
+ORD1170,2025-10-06,Customer_19,Laptop,Electronics,North,1,838.35,838.35
+ORD1780,2025-10-06,Customer_02,Monitor,Electronics,West,5,327.46,1637.3
+ORD2442,2025-10-06,Customer_21,Monitor,Electronics,North,7,278.86,1952.02
+ORD2342,2025-10-06,Customer_15,Laptop,Electronics,West,5,858.73,4293.65
+ORD1675,2025-10-06,Customer_13,Notebook Pack,Stationery,East,5,13.65,68.25
+ORD1606,2025-10-07,Customer_10,Headphones,Electronics,East,4,111.95,447.8
+ORD1673,2025-10-07,Customer_01,Laptop,Electronics,East,4,818.43,3273.72
+ORD1321,2025-10-07,Customer_05,Laptop,Electronics,East,4,859.44,3437.76
+ORD2436,2025-10-08,Customer_20,Office Chair,Furniture,South,7,199.07,1393.49
+ORD1274,2025-10-08,Customer_08,Office Chair,Furniture,West,1,189.25,189.25
+ORD1620,2025-10-08,Customer_30,Office Chair,Furniture,East,4,215.15,860.6
+ORD1369,2025-10-09,Customer_04,Printer,Electronics,West,4,267.04,1068.16
+ORD2494,2025-10-09,Customer_10,Office Chair,Furniture,North,1,213.02,213.02
+ORD1190,2025-10-09,Customer_01,Notebook Pack,Stationery,West,7,14.91,104.37
+ORD2421,2025-10-09,Customer_30,Monitor,Electronics,East,3,270.56,811.68
+ORD1946,2025-10-10,Customer_01,Monitor,Electronics,East,4,319.6,1278.4
+ORD1057,2025-10-10,Customer_05,Smartphone,Electronics,South,6,679.13,4074.78
+ORD2074,2025-10-10,Customer_10,Office Chair,Furniture,East,7,202.69,1418.83
+ORD1324,2025-10-10,Customer_14,Monitor,Electronics,East,6,294.68,1768.08
+ORD1711,2025-10-10,Customer_30,Standing Desk,Furniture,West,1,455.53,455.53
+ORD1819,2025-10-10,Customer_27,Monitor,Electronics,South,2,289.69,579.38
+ORD2161,2025-10-10,Customer_12,Office Chair,Furniture,North,1,189.65,189.65
+ORD1110,2025-10-11,Customer_17,Headphones,Electronics,West,1,128.74,128.74
+ORD1413,2025-10-11,Customer_03,Smartphone,Electronics,North,7,707.35,4951.45
+ORD2357,2025-10-12,Customer_08,Smartphone,Electronics,North,2,651.78,1303.56
+ORD1948,2025-10-12,Customer_30,Monitor,Electronics,North,6,302.24,1813.44
+ORD1595,2025-10-12,Customer_09,Printer,Electronics,East,2,262.89,525.78
+ORD1230,2025-10-12,Customer_26,Office Chair,Furniture,East,4,202.29,809.16
+ORD2102,2025-10-12,Customer_06,Monitor,Electronics,North,2,323.84,647.68
+ORD2487,2025-10-13,Customer_08,Laptop,Electronics,East,1,878.04,878.04
+ORD1225,2025-10-13,Customer_24,Headphones,Electronics,North,5,116.08,580.4
+ORD1508,2025-10-15,Customer_02,Headphones,Electronics,East,3,124.85,374.55
+ORD1783,2025-10-15,Customer_23,Laptop,Electronics,North,4,878.11,3512.44
+ORD2147,2025-10-15,Customer_26,Printer,Electronics,North,1,238.23,238.23
+ORD2224,2025-10-16,Customer_24,Office Chair,Furniture,East,7,222.62,1558.34
+ORD1735,2025-10-16,Customer_07,Notebook Pack,Stationery,North,7,15.38,107.66
+ORD2308,2025-10-16,Customer_25,Office Chair,Furniture,East,6,191.63,1149.78
+ORD2170,2025-10-17,Customer_12,Notebook Pack,Stationery,West,5,15.35,76.75
+ORD1116,2025-10-17,Customer_19,Laptop,Electronics,North,5,834.48,4172.4
+ORD1485,2025-10-17,Customer_01,Smartphone,Electronics,South,1,628.26,628.26
+ORD1479,2025-10-17,Customer_24,Laptop,Electronics,West,7,974.52,6821.64
+ORD2300,2025-10-17,Customer_09,Printer,Electronics,West,5,255.52,1277.6
+ORD2046,2025-10-18,Customer_14,Smartphone,Electronics,West,5,711.3,3556.5
+ORD2398,2025-10-18,Customer_03,Laptop,Electronics,North,6,905.25,5431.5
+ORD2331,2025-10-18,Customer_09,Notebook Pack,Stationery,West,6,14.4,86.4
+ORD2201,2025-10-18,Customer_23,Office Chair,Furniture,East,2,193.08,386.16
+ORD1756,2025-10-18,Customer_20,Notebook Pack,Stationery,East,4,15.31,61.24
+ORD1183,2025-10-18,Customer_02,Notebook Pack,Stationery,South,5,15.71,78.55
+ORD1077,2025-10-19,Customer_25,Smartphone,Electronics,North,3,595.28,1785.84
+ORD1235,2025-10-19,Customer_18,Notebook Pack,Stationery,South,2,15.74,31.48
+ORD1504,2025-10-19,Customer_01,Headphones,Electronics,West,7,109.05,763.35
+ORD1705,2025-10-19,Customer_16,Standing Desk,Furniture,South,4,433.89,1735.56
+ORD2056,2025-10-19,Customer_26,Office Chair,Furniture,North,7,201.72,1412.04
+ORD1795,2025-10-20,Customer_09,Headphones,Electronics,West,5,122.0,610.0
+ORD2482,2025-10-20,Customer_26,Headphones,Electronics,East,7,127.86,895.02
+ORD2066,2025-10-20,Customer_26,Monitor,Electronics,East,6,309.74,1858.44
+ORD2401,2025-10-20,Customer_04,Smartphone,Electronics,North,6,588.55,3531.3
+ORD1996,2025-10-20,Customer_01,Standing Desk,Furniture,South,7,524.58,3672.06
+ORD2034,2025-10-20,Customer_13,Laptop,Electronics,North,4,961.13,3844.52
+ORD2070,2025-10-20,Customer_03,Notebook Pack,Stationery,North,7,13.94,97.58
+ORD1592,2025-10-21,Customer_30,Smartphone,Electronics,South,5,629.68,3148.4
+ORD1248,2025-10-21,Customer_05,Printer,Electronics,West,5,279.18,1395.9
+ORD2044,2025-10-21,Customer_13,Notebook Pack,Stationery,South,1,15.15,15.15
+ORD2031,2025-10-22,Customer_16,Smartphone,Electronics,North,4,694.39,2777.56
+ORD2434,2025-10-22,Customer_18,Headphones,Electronics,North,3,114.42,343.26
+ORD2247,2025-10-23,Customer_06,Office Chair,Furniture,West,2,229.07,458.14
+ORD1660,2025-10-23,Customer_17,Smartphone,Electronics,East,2,713.86,1427.72
+ORD2183,2025-10-24,Customer_26,Office Chair,Furniture,North,1,213.53,213.53
+ORD1073,2025-10-24,Customer_24,Smartphone,Electronics,North,7,632.35,4426.45
+ORD1658,2025-10-24,Customer_11,Laptop,Electronics,West,7,891.94,6243.58
+ORD1695,2025-10-25,Customer_20,Headphones,Electronics,South,5,131.38,656.9
+ORD2372,2025-10-26,Customer_07,Office Chair,Furniture,South,6,194.02,1164.12
+ORD1464,2025-10-26,Customer_11,Laptop,Electronics,West,1,852.42,852.42
+ORD1342,2025-10-26,Customer_03,Standing Desk,Furniture,East,7,458.39,3208.73
+ORD1034,2025-10-26,Customer_03,Monitor,Electronics,North,2,300.19,600.38
+ORD1463,2025-10-26,Customer_02,Office Chair,Furniture,North,4,199.24,796.96
+ORD1787,2025-10-27,Customer_01,Notebook Pack,Stationery,North,3,15.16,45.48
+ORD1837,2025-10-27,Customer_18,Smartphone,Electronics,South,4,671.56,2686.24
+ORD2015,2025-10-27,Customer_05,Printer,Electronics,North,4,285.02,1140.08
+ORD1086,2025-10-28,Customer_06,Laptop,Electronics,West,6,901.04,5406.24
+ORD1833,2025-10-28,Customer_20,Smartphone,Electronics,West,1,605.91,605.91
+ORD2444,2025-10-28,Customer_23,Smartphone,Electronics,West,1,589.85,589.85
+ORD1871,2025-10-28,Customer_04,Smartphone,Electronics,South,6,714.61,4287.66
+ORD1825,2025-10-28,Customer_28,Laptop,Electronics,West,7,836.35,5854.45
+ORD2483,2025-10-28,Customer_02,Laptop,Electronics,East,6,870.58,5223.48
+ORD2109,2025-10-29,Customer_10,Laptop,Electronics,East,1,937.63,937.63
+ORD1102,2025-10-29,Customer_01,Printer,Electronics,North,2,285.3,570.6
+ORD1580,2025-10-29,Customer_27,Laptop,Electronics,North,7,841.4,5889.8
+ORD1422,2025-10-29,Customer_19,Printer,Electronics,South,4,248.34,993.36
+ORD1486,2025-10-29,Customer_11,Headphones,Electronics,North,6,123.19,739.14
+ORD1923,2025-10-29,Customer_13,Smartphone,Electronics,West,3,585.79,1757.37
+ORD2321,2025-10-30,Customer_14,Headphones,Electronics,North,3,128.29,384.87
+ORD1470,2025-10-30,Customer_07,Notebook Pack,Stationery,East,2,15.38,30.76
+ORD1954,2025-10-30,Customer_18,Printer,Electronics,West,7,282.45,1977.15
+ORD1905,2025-10-30,Customer_23,Notebook Pack,Stationery,South,1,15.69,15.69
+ORD1745,2025-10-31,Customer_30,Headphones,Electronics,South,7,123.67,865.69
+ORD1785,2025-10-31,Customer_17,Standing Desk,Furniture,East,1,442.78,442.78
+ORD1432,2025-11-01,Customer_07,Printer,Electronics,North,3,274.95,824.85
+ORD1364,2025-11-01,Customer_05,Laptop,Electronics,North,2,929.2,1858.4
+ORD2289,2025-11-01,Customer_10,Standing Desk,Furniture,South,3,476.45,1429.35
+ORD2362,2025-11-01,Customer_15,Headphones,Electronics,East,6,123.5,741.0
+ORD2283,2025-11-02,Customer_14,Printer,Electronics,North,6,279.04,1674.24
+ORD1149,2025-11-02,Customer_04,Laptop,Electronics,East,6,893.47,5360.82
+ORD2203,2025-11-02,Customer_04,Printer,Electronics,North,1,273.45,273.45
+ORD1950,2025-11-03,Customer_12,Laptop,Electronics,West,4,811.05,3244.2
+ORD1707,2025-11-03,Customer_23,Standing Desk,Furniture,North,3,521.27,1563.81
+ORD1468,2025-11-03,Customer_16,Smartphone,Electronics,North,1,589.05,589.05
+ORD1158,2025-11-03,Customer_21,Standing Desk,Furniture,South,5,487.13,2435.65
+ORD1956,2025-11-03,Customer_16,Office Chair,Furniture,North,7,196.49,1375.43
+ORD1460,2025-11-03,Customer_13,Notebook Pack,Stationery,West,3,13.98,41.94
+ORD2325,2025-11-04,Customer_12,Smartphone,Electronics,South,6,605.59,3633.54
+ORD1667,2025-11-04,Customer_06,Printer,Electronics,West,3,272.81,818.43
+ORD1938,2025-11-05,Customer_22,Office Chair,Furniture,North,2,228.65,457.3
+ORD1098,2025-11-05,Customer_06,Notebook Pack,Stationery,North,1,14.49,14.49
+ORD1343,2025-11-05,Customer_19,Standing Desk,Furniture,North,7,473.19,3312.33
+ORD1535,2025-11-05,Customer_03,Smartphone,Electronics,East,4,610.76,2443.04
+ORD1383,2025-11-05,Customer_28,Smartphone,Electronics,East,2,629.24,1258.48
+ORD1156,2025-11-06,Customer_24,Smartphone,Electronics,East,6,699.67,4198.02
+ORD1362,2025-11-06,Customer_02,Smartphone,Electronics,South,6,620.29,3721.74
+ORD2120,2025-11-06,Customer_22,Laptop,Electronics,West,1,889.72,889.72
+ORD1648,2025-11-06,Customer_30,Monitor,Electronics,East,1,323.66,323.66
+ORD1355,2025-11-07,Customer_14,Monitor,Electronics,North,6,326.97,1961.82
+ORD2154,2025-11-07,Customer_07,Headphones,Electronics,West,1,114.93,114.93
+ORD2172,2025-11-07,Customer_16,Office Chair,Furniture,East,2,204.19,408.38
+ORD1818,2025-11-07,Customer_19,Notebook Pack,Stationery,East,2,14.72,29.44
+ORD2418,2025-11-07,Customer_22,Printer,Electronics,South,5,279.18,1395.9
+ORD1047,2025-11-07,Customer_23,Monitor,Electronics,North,6,285.14,1710.84
+ORD1395,2025-11-07,Customer_24,Printer,Electronics,West,1,259.01,259.01
+ORD1051,2025-11-08,Customer_06,Smartphone,Electronics,West,4,673.83,2695.32
+ORD1649,2025-11-08,Customer_23,Printer,Electronics,South,1,248.39,248.39
+ORD1876,2025-11-08,Customer_21,Standing Desk,Furniture,East,2,456.54,913.08
+ORD2011,2025-11-08,Customer_27,Printer,Electronics,East,1,261.93,261.93
+ORD2139,2025-11-08,Customer_16,Standing Desk,Furniture,North,3,486.02,1458.06
+ORD1059,2025-11-09,Customer_09,Notebook Pack,Stationery,West,7,15.61,109.27
+ORD2493,2025-11-09,Customer_08,Headphones,Electronics,East,4,129.79,519.16
+ORD1652,2025-11-09,Customer_13,Smartphone,Electronics,North,4,646.61,2586.44
+ORD2171,2025-11-09,Customer_08,Notebook Pack,Stationery,South,1,16.11,16.11
+ORD1205,2025-11-10,Customer_21,Headphones,Electronics,East,3,115.13,345.39
+ORD1697,2025-11-11,Customer_13,Standing Desk,Furniture,West,5,465.07,2325.35
+ORD1597,2025-11-11,Customer_17,Printer,Electronics,North,3,267.46,802.38
+ORD1981,2025-11-11,Customer_03,Notebook Pack,Stationery,North,6,13.5,81.0
+ORD2368,2025-11-11,Customer_28,Monitor,Electronics,South,6,277.7,1666.2
+ORD1088,2025-11-11,Customer_07,Printer,Electronics,East,1,267.48,267.48
+ORD1234,2025-11-11,Customer_18,Office Chair,Furniture,West,1,227.19,227.19
+ORD2346,2025-11-11,Customer_02,Printer,Electronics,West,2,282.95,565.9
+ORD1831,2025-11-11,Customer_07,Smartphone,Electronics,North,2,681.53,1363.06
+ORD2100,2025-11-12,Customer_03,Office Chair,Furniture,North,6,211.33,1267.98
+ORD1008,2025-11-12,Customer_19,Smartphone,Electronics,North,5,683.32,3416.6
+ORD2402,2025-11-12,Customer_12,Headphones,Electronics,South,4,111.32,445.28
+ORD2405,2025-11-12,Customer_27,Smartphone,Electronics,North,5,699.58,3497.9
+ORD1233,2025-11-12,Customer_01,Printer,Electronics,South,4,246.31,985.24
+ORD1020,2025-11-12,Customer_11,Standing Desk,Furniture,East,2,440.14,880.28
+ORD2317,2025-11-13,Customer_13,Standing Desk,Furniture,South,7,451.38,3159.66
+ORD2057,2025-11-13,Customer_16,Printer,Electronics,North,3,251.31,753.93
+ORD1604,2025-11-14,Customer_28,Printer,Electronics,West,2,276.92,553.84
+ORD2378,2025-11-14,Customer_05,Standing Desk,Furniture,East,3,500.4,1501.2
+ORD2255,2025-11-15,Customer_10,Laptop,Electronics,East,2,919.71,1839.42
+ORD1157,2025-11-15,Customer_30,Standing Desk,Furniture,North,7,442.31,3096.17
+ORD1889,2025-11-15,Customer_25,Headphones,Electronics,South,2,130.32,260.64
+ORD2296,2025-11-15,Customer_14,Headphones,Electronics,South,3,120.47,361.41
+ORD1641,2025-11-16,Customer_28,Monitor,Electronics,West,3,303.78,911.34
+ORD1397,2025-11-16,Customer_29,Smartphone,Electronics,West,7,650.83,4555.81
+ORD1442,2025-11-16,Customer_14,Smartphone,Electronics,West,5,662.38,3311.9
+ORD2209,2025-11-16,Customer_19,Monitor,Electronics,West,7,306.97,2148.79
+ORD1885,2025-11-16,Customer_13,Notebook Pack,Stationery,West,4,15.84,63.36
+ORD1323,2025-11-16,Customer_20,Monitor,Electronics,West,4,312.24,1248.96
+ORD1803,2025-11-17,Customer_01,Monitor,Electronics,West,4,290.13,1160.52
+ORD1215,2025-11-17,Customer_08,Headphones,Electronics,East,4,112.65,450.6
+ORD1726,2025-11-17,Customer_04,Notebook Pack,Stationery,East,5,13.91,69.55
+ORD2177,2025-11-17,Customer_22,Smartphone,Electronics,West,4,660.15,2640.6
+ORD1500,2025-11-17,Customer_02,Laptop,Electronics,North,5,849.27,4246.35
+ORD2151,2025-11-17,Customer_16,Standing Desk,Furniture,West,4,474.71,1898.84
+ORD1392,2025-11-17,Customer_24,Headphones,Electronics,East,3,118.61,355.83
+ORD1291,2025-11-18,Customer_14,Headphones,Electronics,South,5,108.4,542.0
+ORD1133,2025-11-18,Customer_03,Standing Desk,Furniture,North,3,458.04,1374.12
+ORD2200,2025-11-18,Customer_21,Monitor,Electronics,East,4,319.42,1277.68
+ORD2150,2025-11-18,Customer_10,Headphones,Electronics,North,7,129.2,904.4
+ORD1212,2025-11-18,Customer_11,Printer,Electronics,North,3,265.82,797.46
+ORD1739,2025-11-19,Customer_25,Monitor,Electronics,East,4,303.89,1215.56
+ORD2256,2025-11-19,Customer_10,Smartphone,Electronics,South,6,603.57,3621.42
+ORD1314,2025-11-19,Customer_13,Smartphone,Electronics,East,4,640.64,2562.56
+ORD1590,2025-11-20,Customer_04,Printer,Electronics,West,4,255.44,1021.76
+ORD1251,2025-11-20,Customer_23,Office Chair,Furniture,East,3,211.25,633.75
+ORD1105,2025-11-21,Customer_10,Printer,Electronics,West,3,250.74,752.22
+ORD1997,2025-11-21,Customer_26,Headphones,Electronics,West,2,115.35,230.7
+ORD1411,2025-11-21,Customer_30,Smartphone,Electronics,South,5,645.53,3227.65
+ORD1191,2025-11-21,Customer_21,Notebook Pack,Stationery,North,4,14.23,56.92
+ORD1951,2025-11-21,Customer_07,Headphones,Electronics,West,7,121.79,852.53
+ORD1799,2025-11-22,Customer_02,Office Chair,Furniture,North,3,192.89,578.67
+ORD1970,2025-11-22,Customer_15,Headphones,Electronics,North,4,123.18,492.72
+ORD1541,2025-11-22,Customer_18,Laptop,Electronics,North,2,837.13,1674.26
+ORD1945,2025-11-23,Customer_22,Laptop,Electronics,South,3,858.7,2576.1
+ORD1560,2025-11-23,Customer_03,Standing Desk,Furniture,North,3,448.19,1344.57
+ORD2477,2025-11-24,Customer_12,Office Chair,Furniture,North,3,203.49,610.47
+ORD1131,2025-11-24,Customer_14,Standing Desk,Furniture,North,3,474.93,1424.79
+ORD1056,2025-11-24,Customer_25,Standing Desk,Furniture,East,6,505.9,3035.4
+ORD1377,2025-11-24,Customer_18,Notebook Pack,Stationery,South,4,15.54,62.16
+ORD2337,2025-11-25,Customer_10,Headphones,Electronics,South,1,120.3,120.3
+ORD2488,2025-11-26,Customer_20,Laptop,Electronics,West,1,981.01,981.01
+ORD1325,2025-11-26,Customer_24,Smartphone,Electronics,East,7,637.28,4460.96
+ORD2277,2025-11-26,Customer_23,Printer,Electronics,North,6,262.55,1575.3
+ORD2438,2025-11-26,Customer_11,Headphones,Electronics,East,7,123.73,866.11
+ORD1231,2025-11-26,Customer_07,Printer,Electronics,North,3,281.64,844.92
+ORD1786,2025-11-27,Customer_06,Laptop,Electronics,East,1,951.29,951.29
+ORD1567,2025-11-28,Customer_05,Smartphone,Electronics,East,4,631.47,2525.88
+ORD1068,2025-11-28,Customer_05,Laptop,Electronics,South,3,909.68,2729.04
+ORD2192,2025-11-29,Customer_23,Smartphone,Electronics,North,7,654.47,4581.29
+ORD1613,2025-11-29,Customer_03,Office Chair,Furniture,North,3,228.31,684.93
+ORD2284,2025-11-29,Customer_04,Office Chair,Furniture,East,2,199.23,398.46
+ORD1612,2025-11-30,Customer_19,Printer,Electronics,South,2,273.18,546.36
+ORD2393,2025-11-30,Customer_03,Notebook Pack,Stationery,North,3,16.04,48.12
+ORD1600,2025-11-30,Customer_14,Standing Desk,Furniture,South,4,486.07,1944.28
+ORD1207,2025-11-30,Customer_25,Monitor,Electronics,North,3,295.67,887.01
+ORD2132,2025-11-30,Customer_22,Printer,Electronics,West,4,255.88,1023.52
+ORD1006,2025-11-30,Customer_18,Laptop,Electronics,West,2,884.1,1768.2
+ORD1663,2025-11-30,Customer_29,Smartphone,Electronics,East,2,638.96,1277.92
+ORD1447,2025-12-01,Customer_17,Monitor,Electronics,North,2,316.99,633.98
+ORD2030,2025-12-01,Customer_17,Office Chair,Furniture,East,5,203.41,1017.05
+ORD1450,2025-12-01,Customer_15,Monitor,Electronics,East,5,283.67,1418.35
+ORD1804,2025-12-01,Customer_01,Notebook Pack,Stationery,East,3,13.54,40.62
+ORD2295,2025-12-01,Customer_30,Standing Desk,Furniture,South,6,492.04,2952.24
+ORD1882,2025-12-02,Customer_18,Office Chair,Furniture,North,3,221.9,665.7
+ORD1029,2025-12-02,Customer_27,Office Chair,Furniture,East,1,212.13,212.13
+ORD1063,2025-12-02,Customer_04,Monitor,Electronics,North,6,318.81,1912.86
+ORD1204,2025-12-02,Customer_09,Office Chair,Furniture,East,7,194.62,1362.34
+ORD2124,2025-12-03,Customer_24,Printer,Electronics,East,2,234.54,469.08
+ORD2330,2025-12-03,Customer_06,Office Chair,Furniture,West,7,217.18,1520.26
+ORD2460,2025-12-03,Customer_04,Printer,Electronics,West,4,234.75,939.0
+ORD1513,2025-12-03,Customer_05,Printer,Electronics,South,4,271.76,1087.04
+ORD1471,2025-12-03,Customer_23,Printer,Electronics,West,1,237.68,237.68
+ORD1665,2025-12-04,Customer_14,Notebook Pack,Stationery,North,6,15.7,94.2
+ORD2123,2025-12-04,Customer_08,Smartphone,Electronics,North,6,664.89,3989.34
+ORD2032,2025-12-04,Customer_09,Notebook Pack,Stationery,North,3,15.06,45.18
+ORD1489,2025-12-04,Customer_22,Standing Desk,Furniture,East,2,441.9,883.8
+ORD1122,2025-12-04,Customer_15,Notebook Pack,Stationery,South,6,15.42,92.52
+ORD1178,2025-12-04,Customer_07,Monitor,Electronics,East,4,274.65,1098.6
+ORD2069,2025-12-05,Customer_04,Laptop,Electronics,South,7,968.26,6777.82
+ORD2111,2025-12-05,Customer_15,Smartphone,Electronics,South,1,677.42,677.42
+ORD1912,2025-12-06,Customer_06,Office Chair,Furniture,North,2,202.91,405.82
+ORD1999,2025-12-06,Customer_16,Standing Desk,Furniture,South,6,456.47,2738.82
+ORD1250,2025-12-06,Customer_11,Smartphone,Electronics,North,5,610.57,3052.85
+ORD2232,2025-12-06,Customer_19,Monitor,Electronics,West,3,310.85,932.55
+ORD1992,2025-12-06,Customer_05,Smartphone,Electronics,West,4,615.83,2463.32
+ORD2174,2025-12-06,Customer_13,Laptop,Electronics,North,7,902.86,6320.02
+ORD2361,2025-12-06,Customer_24,Laptop,Electronics,South,3,815.52,2446.56
+ORD1015,2025-12-06,Customer_14,Printer,Electronics,North,2,249.62,499.24
+ORD2071,2025-12-07,Customer_24,Smartphone,Electronics,South,2,587.44,1174.88
+ORD2386,2025-12-07,Customer_08,Standing Desk,Furniture,West,5,457.01,2285.05
+ORD1032,2025-12-07,Customer_17,Laptop,Electronics,South,6,927.72,5566.32
+ORD1727,2025-12-07,Customer_16,Laptop,Electronics,East,4,810.8,3243.2
+ORD1476,2025-12-07,Customer_17,Printer,Electronics,West,1,258.19,258.19
+ORD2148,2025-12-08,Customer_26,Notebook Pack,Stationery,East,6,14.8,88.8
+ORD1265,2025-12-08,Customer_20,Standing Desk,Furniture,West,5,458.16,2290.8
+ORD1668,2025-12-08,Customer_13,Monitor,Electronics,North,4,277.45,1109.8
+ORD2281,2025-12-08,Customer_27,Notebook Pack,Stationery,North,2,16.48,32.96
+ORD2441,2025-12-08,Customer_11,Standing Desk,Furniture,East,7,489.05,3423.35
+ORD1788,2025-12-08,Customer_30,Standing Desk,Furniture,North,4,461.48,1845.92
+ORD1957,2025-12-08,Customer_23,Notebook Pack,Stationery,North,4,15.44,61.76
+ORD2377,2025-12-08,Customer_08,Printer,Electronics,East,3,243.17,729.51
+ORD2452,2025-12-08,Customer_15,Laptop,Electronics,East,3,892.43,2677.29
+ORD2194,2025-12-08,Customer_17,Standing Desk,Furniture,West,4,503.95,2015.8
+ORD2130,2025-12-08,Customer_01,Office Chair,Furniture,North,4,206.69,826.76
+ORD1647,2025-12-08,Customer_19,Standing Desk,Furniture,North,2,478.4,956.8
+ORD2290,2025-12-08,Customer_03,Smartphone,Electronics,West,4,691.6,2766.4
+ORD1732,2025-12-09,Customer_13,Monitor,Electronics,North,7,294.36,2060.52
+ORD1188,2025-12-09,Customer_02,Smartphone,Electronics,South,1,696.35,696.35
+ORD1336,2025-12-10,Customer_16,Monitor,Electronics,South,3,274.42,823.26
+ORD2212,2025-12-10,Customer_13,Office Chair,Furniture,North,7,230.29,1612.03
+ORD1409,2025-12-10,Customer_15,Laptop,Electronics,North,1,849.01,849.01
+ORD1373,2025-12-10,Customer_16,Headphones,Electronics,West,3,122.03,366.09
+ORD1596,2025-12-10,Customer_11,Standing Desk,Furniture,North,3,498.18,1494.54
+ORD1180,2025-12-11,Customer_07,Monitor,Electronics,West,3,326.65,979.95
+ORD2327,2025-12-11,Customer_13,Laptop,Electronics,North,2,854.67,1709.34
+ORD1896,2025-12-12,Customer_16,Standing Desk,Furniture,East,5,461.97,2309.85
+ORD2417,2025-12-12,Customer_05,Office Chair,Furniture,North,1,221.64,221.64
+ORD1720,2025-12-12,Customer_20,Smartphone,Electronics,South,3,598.31,1794.93
+ORD2243,2025-12-12,Customer_01,Office Chair,Furniture,East,1,226.67,226.67
+ORD1553,2025-12-12,Customer_22,Headphones,Electronics,East,5,110.89,554.45
+ORD2119,2025-12-12,Customer_02,Office Chair,Furniture,South,5,191.89,959.45
+ORD1527,2025-12-13,Customer_03,Smartphone,Electronics,East,1,626.87,626.87
+ORD1226,2025-12-13,Customer_18,Printer,Electronics,North,1,275.82,275.82
+ORD2027,2025-12-13,Customer_14,Headphones,Electronics,East,6,112.76,676.56
+ORD2407,2025-12-13,Customer_06,Printer,Electronics,South,5,266.42,1332.1
+ORD1621,2025-12-14,Customer_07,Office Chair,Furniture,South,7,201.89,1413.23
+ORD1429,2025-12-14,Customer_10,Notebook Pack,Stationery,South,3,14.36,43.08
+ORD1433,2025-12-14,Customer_11,Smartphone,Electronics,East,4,617.62,2470.48
+ORD1331,2025-12-14,Customer_26,Headphones,Electronics,West,3,115.18,345.54
+ORD1886,2025-12-14,Customer_03,Laptop,Electronics,West,5,825.48,4127.4
+ORD1888,2025-12-15,Customer_05,Laptop,Electronics,West,7,892.0,6244.0
+ORD1283,2025-12-15,Customer_03,Office Chair,Furniture,North,5,213.58,1067.9
+ORD1664,2025-12-15,Customer_16,Standing Desk,Furniture,South,3,494.29,1482.87
+ORD2269,2025-12-16,Customer_16,Laptop,Electronics,West,6,944.33,5665.98
+ORD2042,2025-12-16,Customer_23,Office Chair,Furniture,East,4,214.13,856.52
+ORD1438,2025-12-17,Customer_29,Laptop,Electronics,North,1,923.7,923.7
+ORD1309,2025-12-17,Customer_29,Laptop,Electronics,North,3,914.22,2742.66
+ORD1199,2025-12-17,Customer_08,Monitor,Electronics,East,2,316.54,633.08
+ORD2230,2025-12-17,Customer_03,Printer,Electronics,South,5,248.33,1241.65
+ORD1616,2025-12-17,Customer_02,Smartphone,Electronics,South,1,663.19,663.19
+ORD2012,2025-12-18,Customer_21,Smartphone,Electronics,North,6,645.85,3875.1
+ORD2313,2025-12-18,Customer_03,Printer,Electronics,North,7,271.26,1898.82
+ORD2169,2025-12-18,Customer_21,Monitor,Electronics,West,6,319.94,1919.64
+ORD2176,2025-12-18,Customer_10,Headphones,Electronics,North,6,111.96,671.76
+ORD1862,2025-12-18,Customer_08,Laptop,Electronics,East,6,835.59,5013.54
+ORD1642,2025-12-18,Customer_28,Printer,Electronics,East,3,250.59,751.77
+ORD2336,2025-12-19,Customer_23,Notebook Pack,Stationery,South,3,16.12,48.36
+ORD2167,2025-12-19,Customer_06,Office Chair,Furniture,West,4,226.46,905.84
+ORD2078,2025-12-20,Customer_08,Office Chair,Furniture,East,7,224.73,1573.11
+ORD2098,2025-12-20,Customer_24,Laptop,Electronics,West,3,913.4,2740.2
+ORD2305,2025-12-20,Customer_24,Notebook Pack,Stationery,West,1,15.68,15.68
+ORD1066,2025-12-20,Customer_25,Monitor,Electronics,North,3,315.3,945.9
+ORD1454,2025-12-21,Customer_25,Standing Desk,Furniture,East,5,453.87,2269.35
+ORD2041,2025-12-21,Customer_20,Printer,Electronics,East,7,262.58,1838.06
+ORD2110,2025-12-21,Customer_01,Notebook Pack,Stationery,South,2,13.64,27.28
+ORD2088,2025-12-21,Customer_30,Notebook Pack,Stationery,North,4,14.97,59.88
+ORD2339,2025-12-21,Customer_16,Office Chair,Furniture,North,4,197.33,789.32
+ORD2462,2025-12-22,Customer_18,Laptop,Electronics,West,7,899.56,6296.92
+ORD2249,2025-12-22,Customer_12,Monitor,Electronics,West,5,328.04,1640.2
+ORD1887,2025-12-23,Customer_06,Smartphone,Electronics,North,6,609.8,3658.8
+ORD2371,2025-12-23,Customer_06,Headphones,Electronics,North,4,114.95,459.8
+ORD1148,2025-12-23,Customer_30,Printer,Electronics,North,4,250.12,1000.48
+ORD1631,2025-12-23,Customer_17,Headphones,Electronics,North,6,112.2,673.2
+ORD2379,2025-12-23,Customer_28,Standing Desk,Furniture,North,3,458.98,1376.94
+ORD2323,2025-12-23,Customer_08,Monitor,Electronics,South,1,280.44,280.44
+ORD1769,2025-12-23,Customer_11,Office Chair,Furniture,North,4,209.6,838.4
+ORD1296,2025-12-23,Customer_07,Printer,Electronics,West,7,243.75,1706.25
+ORD1729,2025-12-24,Customer_20,Notebook Pack,Stationery,West,6,14.21,85.26
+ORD2126,2025-12-24,Customer_02,Printer,Electronics,North,6,272.21,1633.26
+ORD2035,2025-12-24,Customer_01,Notebook Pack,Stationery,East,6,15.76,94.56
+ORD1669,2025-12-24,Customer_07,Smartphone,Electronics,East,4,628.14,2512.56
+ORD1245,2025-12-24,Customer_25,Laptop,Electronics,East,1,816.56,816.56
+ORD1175,2025-12-25,Customer_17,Office Chair,Furniture,East,1,194.98,194.98
+ORD2473,2025-12-25,Customer_05,Smartphone,Electronics,South,6,714.4,4286.4
+ORD2189,2025-12-25,Customer_28,Laptop,Electronics,East,6,970.57,5823.42
+ORD1206,2025-12-25,Customer_30,Printer,Electronics,East,6,238.5,1431.0
+ORD1329,2025-12-25,Customer_28,Standing Desk,Furniture,West,3,519.26,1557.78
+ORD2054,2025-12-25,Customer_01,Laptop,Electronics,East,7,929.18,6504.26
+ORD1327,2025-12-26,Customer_07,Laptop,Electronics,West,3,884.52,2653.56
+ORD1069,2025-12-26,Customer_03,Office Chair,Furniture,West,4,213.19,852.76
+ORD1534,2025-12-26,Customer_03,Standing Desk,Furniture,North,6,491.04,2946.24
+ORD1461,2025-12-27,Customer_29,Smartphone,Electronics,North,1,605.68,605.68
+ORD2152,2025-12-27,Customer_28,Office Chair,Furniture,East,3,213.81,641.43
+ORD1878,2025-12-27,Customer_06,Standing Desk,Furniture,East,7,452.77,3169.39
+ORD1538,2025-12-27,Customer_16,Standing Desk,Furniture,West,3,516.91,1550.73
+ORD1246,2025-12-27,Customer_24,Printer,Electronics,East,6,257.05,1542.3
+ORD1875,2025-12-28,Customer_19,Standing Desk,Furniture,North,1,497.45,497.45
+ORD2254,2025-12-28,Customer_11,Notebook Pack,Stationery,East,6,13.76,82.56
+ORD2302,2025-12-28,Customer_05,Notebook Pack,Stationery,South,6,15.78,94.68
+ORD1119,2025-12-28,Customer_27,Laptop,Electronics,East,6,902.19,5413.14
+ORD1545,2025-12-29,Customer_19,Laptop,Electronics,East,3,989.8,2969.4
+ORD1497,2025-12-29,Customer_15,Headphones,Electronics,North,3,119.31,357.93
+ORD2116,2025-12-29,Customer_01,Monitor,Electronics,East,6,296.43,1778.58
+ORD1125,2025-12-29,Customer_27,Standing Desk,Furniture,North,4,491.79,1967.16
+ORD2267,2025-12-29,Customer_28,Headphones,Electronics,North,4,122.79,491.16
+ORD1759,2025-12-29,Customer_17,Notebook Pack,Stationery,West,7,14.08,98.56
+ORD2019,2025-12-30,Customer_21,Laptop,Electronics,North,2,912.63,1825.26
+ORD1058,2025-12-30,Customer_12,Notebook Pack,Stationery,East,1,13.57,13.57
+ORD2455,2025-12-30,Customer_03,Laptop,Electronics,North,2,925.39,1850.78
+ORD1672,2025-12-30,Customer_18,Notebook Pack,Stationery,North,3,16.01,48.03
+ORD1761,2025-12-31,Customer_16,Standing Desk,Furniture,West,6,488.17,2929.02
+ORD1717,2025-12-31,Customer_08,Office Chair,Furniture,North,7,190.59,1334.13
