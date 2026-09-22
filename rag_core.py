@@ -7,7 +7,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 
 # If Google retires a model, pick a current one in https://aistudio.google.com
-CHAT_MODEL = "gemini-2.5-flash"
+CHAT_MODEL = "gemini-3.6-flash"
 EMBED_MODEL = "models/gemini-embedding-001"
 DIMENSIONS = ["Month", "Product", "Category", "Region", "Customer"]
 
